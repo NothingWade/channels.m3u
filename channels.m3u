@@ -1,294 +1,211 @@
+Lista m3u RO/MD
+
+ 
+
 #EXTM3U
-#EXTINF:1,prime tv
-livebeta.publika.md/LIVE/1/6810.m3u8
-
-#EXTINF:1,Primul in Moldova HD
-https://bit.ly/3bGdsYO
-
-#EXTINF:1,Canal 2 HD
-https://bit.ly/3PmzIox
-
-#EXTINF:1,Canal 3 HD
-https://bit.ly/3bErNF6
-
-#EXTINF:1,Publika TV HD
-https://bit.ly/3JHf2q2
-
-#EXTINF:1,Moldova 2 HD
-https://bit.ly/3St1hPH
-
-#EXTINF:1,Jurnal TV HD
-https://cache2.multiscreen.moldtelecom.md/live/eds/Jurnaltv_hd_vs25/HLSv3/Jurnaltv_hd_vs25.m3u8
-
-#EXTINF:1,Prime HD
-https://bit.ly/3zJvbq2
-
-#EXTINF:1,NTV Moldova HD
-https://bit.ly/3P9eKt4
-
-#EXTINF:1,Familia HD
-https://bit.ly/3JDBzDW
-
-#EXTINF:1,Accent TV
-https://bit.ly/3bByhVo
-
-#EXTINF:1,Cinema HD
-https://bit.ly/3dhf2AU
-
-#EXTINF:1,PRO TV Chisinau HD
-https://bit.ly/3BLADLN
-
-#EXTINF:1,THT / Exclusiv TV HD
-https://bit.ly/3zICJt9
-
-#EXTINF:1,N4 HD
-https://bit.ly/3Sz0ug5
-
-#EXTINF:1,TV8 HD
-https://bit.ly/3jF7jw4
-
-#EXTINF:1,RTR Moldova HD
-https://bit.ly/3Qp2nKo
-
-#EXTINF:1,Kanal D
-https://bit.ly/3bH07PZ
-
-#EXTINF:1,TVR Moldova
-https://bit.ly/3AtP2sf
-
-#EXTINF:1,Noroc TV HD
-https://bit.ly/3bBpMJM
-
-#EXTINF:1,TVC 21
-https://bit.ly/3bBAbVN
-
-#EXTINF:1,TV 6 HD
-https://bit.ly/3A6rf4r
-
-#EXTINF:1,GRT
-https://bit.ly/3yG6CbZ
-
-#EXTINF:1,REN Moldova HD
-https://bit.ly/3SBNC8M
-
-#EXTINF:1,Canal 5 HD
-https://bit.ly/3p5i3aa
-
-#EXTINF:1,ITV Moldova
-https://bit.ly/3A5KcEd
-
-#EXTINF:1,Agro TV Moldova
-https://bit.ly/3CD70KE
-
-#EXTINF:1,Orhei TV HD
-https://bit.ly/3vNAFyY
-
-#EXTINF:1,Cotidianul TV - CTV
-https://bit.ly/3jFSNnz
-
-#EXTINF:1,PEH TV HD
-https://bit.ly/3bEmrtm
-
-#EXTINF:1,Mega HD
-https://bit.ly/3p91Pwp
-
-#EXTINF:1,STV HD
-https://bit.ly/3Qam8FU
-
-#EXTINF:1,Кино ТВ
-https://bit.ly/3QaE17x
-
-#EXTINF:1,Кинохит
-https://bit.ly/3Q1KWQh
-
-#EXTINF:1,Киносемья
-https://bit.ly/3bGIAY7
-
-#EXTINF:1,TV 1000 HD
-https://bit.ly/3Aq0THI
-
-#EXTINF:1,TV 1000 Action HD
-https://bit.ly/3xAVfRs
-
-#EXTINF:1,TV 1000 Русское кино HD
-https://bit.ly/2XfQhwV
-
-#EXTINF:1,PRO 2
-https://bit.ly/3iDm0jX
-
-#EXTINF:1,National TV
-https://bit.ly/37zK1Ca
-
-#EXTINF:1,Кинокомедия
-https://bit.ly/3QatGZ0
-
-#EXTINF:1,Индийское кино
-https://bit.ly/3A6OsTK
-
-#EXTINF:1,Fox
-https://bit.ly/3fQzM0M
-
-#EXTINF:1,Fox life
-https://bit.ly/37yc192
-
-#EXTINF:1,StarFamily
-https://bit.ly/3lWoPPb
-
-#EXTINF:1,Киносвидание
-https://bit.ly/3CzV9Nu
-
-#EXTINF:1,Киномикс
-https://bit.ly/3s8HLeh
-
-#EXTINF:1,Наше новое кино
-https://bit.ly/3yBQLeF
-
-#EXTINF:1,Любимое кино
-https://bit.ly/3lRpEss
-
-#EXTINF:1,Иллюзион+
-https://bit.ly/2U50zi4
-
-#EXTINF:1,Дом Кино
-https://bit.ly/2VCjBNf
-
-#EXTINF:1,FilmUaDrama
-https://bit.ly/3fQFa3W
-
-#EXTINF:1,BOLT
-https://bit.ly/3xBiwCH
-
-#EXTINF:1,VIP Premiere HD
-https://bit.ly/3CzUjAk
-
-#EXTINF:1,VIP Megahit HD
-https://bit.ly/3CwQyvH
-
-#EXTINF:1,VIP Comedy HD
-https://bit.ly/3fTmbpl
-
-#EXTINF:1,Minimax HD
-https://bit.ly/3BXBTLQ
-
-#EXTINF:1,Gurinel TV HD
-https://bit.ly/3Qq8wWH
-
-#EXTINF:1,Мульт / Bravo TV HD
-https://bit.ly/3vMbU6c
-
-#EXTINF:1,Nickelodeon
-https://bit.ly/3Q7hicw
-
-#EXTINF:1,Nickelodeon HD (rus)
-https://bit.ly/3zMryjw
-
-#EXTINF:1,Disney Channel HD
-https://bit.ly/3datoTw
-
-#EXTINF:1,Boomerang
-https://bit.ly/3zD4HXy
-
-#EXTINF:1,Nick Jr. HD
-https://bit.ly/3A2i44S
-
-#EXTINF:1,Cartoon Network / TCM
-https://bit.ly/3lLCmJc
-
-#EXTINF:1,Cartoon Network
-https://bit.ly/3yDVPPF
-
-#EXTINF:1,Карусель
-https://bit.ly/37v25xh
-
-#EXTINF:1,CTC Kids
-https://bit.ly/2U5D0pl
-
-#EXTINF:1,Duck TV
-https://bit.ly/3As5vx9
-
-#EXTINF:1,Eurosport 1 HD
-https://bit.ly/3Qj7Nqi
-
-#EXTINF:1,Setanta
-https://bit.ly/3p0qbsi
-
-#EXTINF:1,Setanta 1 HD
-https://bit.ly/3JEoL0a
-
-#EXTINF:1,National Geographic
-https://bit.ly/3Qu294Q
-
-#EXTINF:1,Discovery Channel
-https://bit.ly/3SDeqpd
-
-#EXTINF:1,Animal Planet HD
-https://bit.ly/3SzBrtd
-
-#EXTINF:1,Discovery Science HD
-https://bit.ly/3C67QC7
-
-#EXTINF:1,Viasat Explorer
-https://bit.ly/3SxQtQc
-
-#EXTINF:1,Travel + Adventure
-https://bit.ly/3s6pwGm
-
-#EXTINF:1,TLC
-https://bit.ly/3BNC6kK
-
-#EXTINF:1,Кухня ТВ
-https://bit.ly/3fSEJpH
-
-#EXTINF:1,Сарафан
-https://bit.ly/2VNnCi8
-
-#EXTINF:1,Kvartal TV
-https://bit.ly/3lNuaIo
-
-#EXTINF:1,Speranta TV
-https://bit.ly/37yD6Jq
-
-#EXTINF:1,AlfaOmega TV
-https://bit.ly/3jGp0LI
-
-#EXTINF:1,Союз
-https://bit.ly/3iz9FNn
-
-#EXTINF:1,Romania TV
-https://bit.ly/3AzTbLp
-
-#EXTINF:1,Kazakh TV
-https://bit.ly/3CLybmO
-
-#EXTINF:1,U TV
-https://bit.ly/3Aq2soY
-
-#EXTINF:1,Zona M
-https://bit.ly/3fTnvZl
-
-#EXTINF:1,Busuioc TV
-https://bit.ly/3AzTeH5
-
-#EXTINF:1,Favorit TV
-https://bit.ly/2X7aQvg
-
-#EXTINF:1,Elita TV (Rezina)
-https://bit.ly/3lRpVvu
-
-#EXTINF:1,Sor TV (Soroca)
-https://bit.ly/3lQqfKN
-
-#EXTINF:1,Studio L (Causeni)
-https://bit.ly/2VHhBUl
-
-#EXTINF:1,Drochia TV
-https://bit.ly/3yIOXk8
-
-#EXTINF:1,TV Prim (Glodeni)
-https://bit.ly/3Cz9kCp
-
-#EXTINF:1,Media TV (Cimislia)
-https://bit.ly/3xCis5N
-
-#EXTINF:1,Canal Regional
-https://bit.ly/3xDt9om
+#EXTINF:-1,MOLDOVA 1
+http://185.163.195.166:9001/udp/228.33.29.1:1234
+#EXTINF:-1,MOLDOVA 2
+http://185.163.195.166:9001/udp/228.33.29.65:1234
+#EXTINF:-1,ITV MD
+http://185.163.195.166:9001/udp/228.33.29.66:1234
+#EXTINF:-1,NTV MD
+http://185.163.195.166:9001/udp/228.33.29.67:1234
+#EXTINF:-1,PRIME
+http://185.163.195.166:9001/udp/228.33.29.2:1234
+#EXTINF:-1,PRO TV MD
+http://185.163.195.166:9001/udp/228.33.29.3:1234
+#EXTINF:-1,JURNAL TV
+http://185.163.195.166:9001/udp/228.33.29.4:1234
+#EXTINF:-1,PUBLIKA HD
+http://185.163.195.166:9001/udp/228.33.29.5:1234
+#EXTINF:-1,TVR MOLDOVA
+http://185.163.195.166:9001/udp/228.33.29.6:1234
+#EXTINF:-1,TNT MD
+http://185.163.195.166:9001/udp/228.33.29.7:1234
+#EXTINF:-1,CANAL 2 HD
+http://185.163.195.166:9001/udp/228.33.29.8:1234
+#EXTINF:-1,RTR MOLDOVA
+http://185.163.195.166:9001/udp/228.33.29.9:1234
+#EXTINF:-1,CANAL 3 HD
+http://185.163.195.166:9001/udp/228.33.29.10:1234
+#EXTINF:-1,TV8 MD
+http://185.163.195.166:9001/udp/228.33.29.11:1234
+#EXTINF:-1,REN MD
+http://185.163.195.166:9001/udp/228.33.29.12:1234
+#EXTINF:-1,NATIONAL 4
+http://185.163.195.166:9001/udp/228.33.29.13:1234
+#EXTINF:-1,STS MEGA
+http://185.163.195.166:9001/udp/228.33.29.14:1234
+#EXTINF:-1,TV ORHEI
+http://185.163.195.166:9001/udp/228.33.29.15:1234
+#EXTINF:-1,EURO TV
+http://185.163.195.166:9001/udp/228.33.29.16:1234
+#EXTINF:-1,10TV HD
+http://185.163.195.166:9001/udp/228.33.29.17:1234
+#EXTINF:-1,ACCENT TV
+http://185.163.195.166:9001/udp/228.33.29.18:1234
+#EXTINF:-1,SOR TV
+http://185.163.195.166:9001/udp/228.33.29.19:1234
+#EXTINF:-1,PRO 2
+http://185.163.195.166:9001/udp/228.33.29.20:1234
+#EXTINF:-1,MEDIA TV
+http://185.163.195.166:9001/udp/228.33.29.21:1234
+#EXTINF:-1,NEPTUN TV
+http://185.163.195.166:9001/udp/228.33.29.22:1234
+#EXTINF:-1,CANAL 21
+http://185.163.195.166:9001/udp/228.33.29.23:1234
+#EXTINF:-1,TV DROCHIA
+http://185.163.195.166:9001/udp/228.33.29.24:1234
+#EXTINF:-1,TV PRIM GLODENI
+http://185.163.195.166:9001/udp/228.33.29.25:1234
+#EXTINF:-1,DOMASHNII FAMILIA
+http://185.163.195.166:9001/udp/228.33.29.26:1234
+#EXTINF:-1,AXIAL HD
+http://185.163.195.166:9001/udp/228.33.29.27:1234
+#EXTINF:-1,TV1000 EAST
+http://185.163.195.166:9001/udp/228.33.29.28:1234
+#EXTINF:-1,TV1000 ACTION
+http://185.163.195.166:9001/udp/228.33.29.29:1234
+#EXTINF:-1,FOX TV
+http://185.163.195.166:9001/udp/228.33.29.32:1234
+#EXTINF:-1,FOX LIFE
+http://185.163.195.166:9001/udp/228.33.29.33:1234
+#EXTINF:-1,FOX LIFE HD
+http://185.163.195.166:9001/udp/228.33.29.41:1234
+#EXTINF:-1,FOX HD
+http://185.163.195.166:9001/udp/228.33.29.42:1234
+#EXTINF:-1,ANIMAL PLANET
+http://185.163.195.166:9001/udp/228.33.29.43:1234
+#EXTINF:-1,DISCOVERY SCIENCE
+http://185.163.195.166:9001/udp/228.33.29.44:1234
+#EXTINF:-1,CANAL REGIONAL
+http://185.163.195.166:9001/udp/228.33.29.45:1234
+#EXTINF:-1,DISCOVERY ID
+http://185.163.195.166:9001/udp/228.33.29.46:1234
+#EXTINF:-1,DISCOVERY CHANNEL
+http://185.163.195.166:9001/udp/228.33.29.47:1234
+#EXTINF:-1,DISCOVERY SHOWCASE
+http://185.163.195.166:9001/udp/228.33.29.48:1234
+#EXTINF:-1,TLC
+http://185.163.195.166:9001/udp/228.33.29.49:1234
+#EXTINF:-1,NAT GEO WILD
+http://185.163.195.166:9001/udp/228.33.29.50:1234
+#EXTINF:-1,NAT GEO WILD HD
+http://185.163.195.166:9001/udp/228.33.29.51:1234
+#EXTINF:-1,NAT GEOGRAPHIC
+http://185.163.195.166:9001/udp/228.33.29.52:1234
+#EXTINF:-1,NAT GEOGRAPHIC HD
+http://185.163.195.166:9001/udp/228.33.29.53:1234
+#EXTINF:-1, NATURE
+http://185.163.195.166:9001/udp/228.33.29.54:1234
+#EXTINF:-1, NATURE HISTORY HD
+http://185.163.195.166:9001/udp/228.33.29.55:1234
+#EXTINF:-1,ANIMAL PLANET HD
+http://185.163.195.166:9001/udp/228.33.29.56:1234
+#EXTINF:-1, HISTORY
+http://185.163.195.166:9001/udp/228.33.29.57:1234
+#EXTINF:-1, EXPLORE
+http://185.163.195.166:9001/udp/228.33.29.58:1234
+#EXTINF:-1,IMPACT TV
+http://185.163.195.166:9001/udp/228.33.29.69:1234
+#EXTINF:-1,MBC/DIGI24
+http://185.163.195.166:9001/udp/228.33.29.70:1234
+#EXTINF:-1,DUCK TV
+http://185.163.195.166:9001/udp/228.33.29.72:1234
+#EXTINF:-1,MINIMAX RO
+http://185.163.195.166:9001/udp/228.33.29.73:1234
+#EXTINF:-1,CARTOON NETWORK RO
+http://185.163.195.166:9001/udp/228.33.29.74:1234
+#EXTINF:-1,BOOMERANG
+http://185.163.195.166:9001/udp/228.33.29.75:1234
+#EXTINF:-1,DISNEY CHANNEL RO
+http://185.163.195.166:9001/udp/228.33.29.80:1234
+#EXTINF:-1,UTV
+http://185.163.195.166:9001/udp/228.33.29.85:1234
+#EXTINF:-1,EUROPA PLUS
+http://185.163.195.166:9001/udp/228.33.29.86:1234
+#EXTINF:-1,MCM TOP
+http://185.163.195.166:9001/udp/228.33.29.88:1234
+#EXTINF:-1,ZONA M
+http://185.163.195.166:9001/udp/228.33.29.89:1234
+#EXTINF:-1,GOLD HD
+http://185.163.195.166:9001/udp/228.33.29.90:1234
+#EXTINF:-1,TARAF
+http://185.163.195.166:9001/udp/228.33.29.91:1234
+#EXTINF:-1,ETNO TV
+http://185.163.195.166:9001/udp/228.33.29.92:1234
+#EXTINF:-1,NOROC TV
+http://185.163.195.166:9001/udp/228.33.29.93:1234
+#EXTINF:-1,BUSUIOC TV
+http://185.163.195.166:9001/udp/228.33.29.94:1234
+#EXTINF:-1,ROMANIA TV
+http://185.163.195.166:9001/udp/228.33.29.96:1234
+#EXTINF:-1,RUSSIA TODAY
+http://185.163.195.166:9001/udp/228.33.29.100:1234
+#EXTINF:-1,FRANCE 24 FR
+http://185.163.195.166:9001/udp/228.33.29.105:1234
+#EXTINF:-1,FRANCE 24 EN
+http://185.163.195.166:9001/udp/228.33.29.106:1234
+#EXTINF:-1,DEUTSCHE WELLE
+http://185.163.195.166:9001/udp/228.33.29.107:1234
+#EXTINF:-1,CNN
+http://185.163.195.166:9001/udp/228.33.29.108:1234
+#EXTINF:-1,RT DOC HD
+http://185.163.195.166:9001/udp/228.33.29.110:1234
+#EXTINF:-1,TV PAPRIKA
+http://185.163.195.166:9001/udp/228.33.29.112:1234
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://185.163.195.166:9001/udp/228.33.29.113:1234
+#EXTINF:-1,NATIONAL TV
+http://185.163.195.166:9001/udp/228.33.29.114:1234
+#EXTINF:-1,FASHION ONE HD
+http://185.163.195.166:9001/udp/228.33.29.115:1234
+#EXTINF:-1,FASHION ONE SD
+http://185.163.195.166:9001/udp/228.33.29.116:1234
+#EXTINF:-1,FISHING AND HUNTING
+http://185.163.195.166:9001/udp/228.33.29.119:1234
+#EXTINF:-1,ALFA SI OMEGA
+http://185.163.195.166:9001/udp/228.33.29.123:1234
+#EXTINF:-1,CNL
+http://185.163.195.166:9001/udp/228.33.29.124:1234
+#EXTINF:-1,TRINITAS TV
+http://185.163.195.166:9001/udp/228.33.29.126:1234
+#EXTINF:-1,EUROSPORT RO
+http://185.163.195.166:9001/udp/228.33.29.129:1234
+#EXTINF:-1,EUROSPORT EN
+http://185.163.195.166:9001/udp/228.33.29.130:1234
+#EXTINF:-1,EUROSPORT 2
+http://185.163.195.166:9001/udp/228.33.29.131:1234
+#EXTINF:-1,EUROSPORT RO HD
+http://185.163.195.166:9001/udp/228.33.29.132:1234
+#EXTINF:-1, SPORT
+http://185.163.195.166:9001/udp/228.33.29.133:1234
+#EXTINF:-1,UKRAINA 5 INTERNATIONAL
+http://185.163.195.166:9001/udp/228.33.29.140:1234
+#EXTINF:-1,SPERANTA TV
+http://185.163.195.166:9001/udp/228.33.29.143:1234
+#EXTINF:-1,AGRO MD
+http://185.163.195.166:9001/udp/228.33.29.144:1234
+#EXTINF:-1,CARTOON NETWORK EN
+http://185.163.195.166:9001/udp/228.33.29.145:1234
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://185.163.195.166:9001/udp/228.33.29.146:1234
+#EXTINF:-1,N24 PLUS
+http://185.163.195.166:9001/udp/228.33.29.152:1234
+#EXTINF:-1,FAVORIT
+http://185.163.195.166:9001/udp/228.33.29.153:1234
+#EXTINF:-1,BRAVO TV
+http://185.163.195.166:9001/udp/228.33.29.160:1234
+#EXTINF:-1,BBC WORLD NEWS
+http://185.163.195.166:9001/udp/228.33.29.162:1234
+#EXTINF:-1,STS RU
+http://185.163.195.166:9001/udp/228.33.29.170:1234
+#EXTINF:-1,MGM HD
+http://185.163.195.166:9001/udp/228.33.29.192:1234
+#EXTINF:-1,DISNEY JR
+http://185.163.195.166:9001/udp/228.33.29.196:1234
+#EXTINF:-1,TELEKOM SPORT HD
+http://185.163.195.166:9001/udp/228.33.29.219:1234
+#EXTINF:-1,TELEKOM SPORT 2
+http://185.163.195.166:9001/udp/228.33.29.220:1234
