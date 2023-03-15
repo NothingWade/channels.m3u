@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:0 tvg-country="Moldova" tvg-logo="" group-title="Moldova",MEDIA REGIONAL
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="" group-title="Moldova",MEDIA REGIONAL
 http://83.103.150.198:8080?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",TVR Moldova
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
-#EXTINF:0 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="undefined",TVR International
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="undefined",TVR International
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
-#EXTINF:0 tvg-country="Moldova" tvg-logo="https://static.cdn.jurnaltv.md/brand-assets/dev/jurnaltv/jurnaltv_albastru_bold.png" group-title="Moldova",Jurnal TV
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://static.cdn.jurnaltv.md/brand-assets/dev/jurnaltv/jurnaltv_albastru_bold.png" group-title="Moldova",Jurnal TV
 https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=12a146b27619285fa3da1c14d2258339d4961702
-#EXTINF:0 tvg-country="Moldova" tvg-logo="https://busuioctv.md/wp-content/uploads/2016/10/Login-Logo.png" group-title="Moldova",Busuioc TV
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://busuioctv.md/wp-content/uploads/2016/10/Login-Logo.png" group-title="Moldova",Busuioc TV
 https://busuioctv.iforward.eu/hls/busuioc.m3u8
-#EXTINF:0 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
 https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
+https://livebeta.publika.md/LIVE/P/6810.m3u8
