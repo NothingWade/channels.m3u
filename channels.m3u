@@ -70,3 +70,21 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spyescapeandevasion.com/wp-content/uploads/izru.jpg" group-title="Russia (Россия)",Izvestia
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.katun24.ru/bitrix/templates/k24/images/logo.png" group-title="Russia (Россия)",Катунь 24
+https://live.katun24.ru:8082/katun/katun/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1780629068/kr__400x400.jpg" group-title="Russia (Россия)",Krasnodar TV
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" group-title="Russia (Россия)",Мир Белагорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png" group-title="Russia (Россия)",Муниципальное Телевидение Волгограда
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yStKJJr.png" group-title="Russia (Россия)",Novyj Mir
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Russia (Россия)",RBC
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="Russia (Россия)",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/D5M4Gjr.png" group-title="Undefined",RBK,RU | RBK
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",TNT_EXCLUSIV,ТНТ Exclusive (Молдова)
+http://89.28.25.122/hls/tnt_md.m3u8?checkedby:hlscat.com
