@@ -28,8 +28,45 @@ https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-country="Russia" tvg-logo="" group-title="Russia",Action TV 1000
 http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="Russia" tvg-logo="" group-title="Russia",BACKUS TV dark
+#EXTINF:-1 tvg-country="Russia" tvg-logo="" group-title="Russia",BACKUS TV dark
 https://stream.backustv.ru/content/39864/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="Russia" tvg-logo="" group-title="Russia",BACKUS TV orig
+#EXTINF:-1 tvg-country="Russia" tvg-logo="" group-title="Russia",BACKUS TV orig
 https://stream.backustv.ru/live/btv/index.m3u8?checkedby:iptvcat.com
-
+#EXTINF:-1 tvg-country="Russia" tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia",MNP
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-country="Russia" tvg-logo="http://online-red.com/images/tv/86.png" group-title="Russia",86 Canal 
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 tvg-country="Russia" tvg-logo="http://aisttv.ru/wp-content/uploads/2015/03/logo-white.png" group-title="Russia",Аист ТВ
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://afontovo.ru/bitrix/templates/dvt.afontovo.ru/img.src/logo.png" group-title="Russia (Россия)",AАфонтово
+http://xstream.afontovo.ru/afontovo_sd.m3u8
+#EXTINF:-1 tvg-logo="https://pp.userapi.com/c848628/v848628728/5fae5/qUqbanFdVqA.jpg" group-title="Russia (Россия)",АРИС 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrakhan-24.ru/images/bg/logo.png" group-title="Russia (Россия)", Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LOGO_ARKHYZ24.tif/lossy-page1-1200px-LOGO_ARKHYZ24.tif.jpg" group-title="Russia (Россия)",Архыз 24
+http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://variant-v.ru/template/img/logo1.png" group-title="Russia (Россия)",Вариант ТВ
+http://xn----7sbagd7azbvv.xn--p1ai/online/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vetta.tv/bitrix/templates/vetta/images/LOGA_VETTA24.png" group-title="Russia (Россия)",Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.belnovosti.ru/sites/all/themes/belnovosti/i/belgorod24-logo.png" group-title="Russia (Россия)",ББелгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" group-title="Russia (Россия)",С1 
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 tvg-logo="http://www.visitnao.ru/upload/iblock/1c0/1c0bd0c468ce71c2c0deab8ee728440a.png" group-title="Russia (Россия)",Север
+http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510953667_eho-tv-24.png" group-title="Russia (Россия)",Эхо 24 
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:-1 tvg-logo="http://online-red.online/uploads/posts/2017-10/1507364591_echotv.png" group-title="Russia (Россия)",Эхо TV 
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hopetv.ru/wp-content/themes/hope.ua/public/img/header-hopeLogo.png" group-title="Russia (Россия)",Hope TV
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="Russia (Россия)",Heaven TV7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nikatv.ru/public/img/logo2.png"group-title="Russia (Россия)",Ника
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://saransk-tv.ru/assets/images/slider/170321-pic-01.jpg" group-title="Russia (Россия)", НТМ Мордовия
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spyescapeandevasion.com/wp-content/uploads/izru.jpg" group-title="Russia (Россия)",Izvestia
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
