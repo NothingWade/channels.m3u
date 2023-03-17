@@ -1,27 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="" group-title="Moldova",MEDIA REGIONAL
-http://83.103.150.198:8080?checkedby:dailyfreeiptvlist.com
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",TVR Moldova
-https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",TVR International
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://static.cdn.jurnaltv.md/brand-assets/dev/jurnaltv/jurnaltv_albastru_bold.png" group-title="Moldova",Jurnal TV
 https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=12a146b27619285fa3da1c14d2258339d4961702
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://busuioctv.md/wp-content/uploads/2016/10/Login-Logo.png" group-title="Moldova",Busuioc TV
-https://busuioctv.iforward.eu/hls/busuioc.m3u8
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
-https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Publika_logo_%282017%29.png" group-title="Moldova",Publika TV
 https://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo50/moldova_tv_1_md.png" group-title="Moldova",Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
+https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo50/moldova_tv_2_md.png" group-title="Moldova",Moldova 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://picon.ml/tnt-excl.png" group-title="Russia",THT Moldova
+http://89.28.25.122/hls/tnt_md.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-country="Romania" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="Romania",Antena 1
-https://rundle.deta.dev/hls/LIVE$Antena1/6.m3u8/Level(19012010)?end=END&start=LIVE&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="Romania" tvg-logo="https://i.imgur.com/H3km8ic.png" group-title="Romania",Digi 24
-https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="Russia",1 Kanal
+https://oklive6-4.vkuser.net/hls/528984312566.m3u8/sig/dzI5rCAumIA/expires/1679160195492/srcIp/85.244.75.99/urls/45.136.20.37/clientType/0/srcAg/CHROME/mid/1115050286838/video.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://seeklogo.com/images/H/htb-logo-DD6BC88F28-seeklogo.com.png" group-title="Russia",HTB
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 tvg-country="Russia" tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia",MNP
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://www.cableman.ru/sites/default/files/mir_24.png?1557903553" group-title="Russia",MNP 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Russia",Russia 24
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TNT_logo.png" group-title="Russia",THT Canal
+https://oklive6-14.vkuser.net/hls/449331268191.m3u8/sig/BLmLX3R_jr8/expires/1679082345906/srcIp/85.244.75.99/urls/45.136.22.51/clientType/0/srcAg/CHROME/mid/854539312735/video.m3u8
+#EXTINF:0 tvg-logo="https://www.gazprom-media.com/storage/uploads/partner/logo_hover/0/8/388/8388/9e270399a7413c6f2e91ec136784274b.png" group-title="Russia",THT Canal 4
+https://vsd86.mycdn.me/hls/479108795003.m3u8/sig/iltl7RU69iA/expires/1679160536051/srcIp/85.244.75.99/urls/185.226.52.49/clientType/0/srcAg/CHROME/mid/979125083771/video.m3u8
+#EXTINF:-1 tvg-logo="https://spyescapeandevasion.com/wp-content/uploads/izru.jpg" group-title="Russia",Izvestia
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yStKJJr.png" group-title="Russia",Novyj Mir
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Russia",RBC
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.7days.ru/upload/images/53e/b580444c1b640f35aa0d8194c47fc.jpg" group-title="Russia",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="NTS.ru" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="Russia",HTC
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-country="Russia" tvg-logo="" group-title="Russia",Action TV 1000
@@ -30,8 +47,6 @@ http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8?checkedby:iptvca
 https://stream.backustv.ru/content/39864/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="Russia" tvg-logo="" group-title="Russia",BACKUS TV orig
 https://stream.backustv.ru/live/btv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="Russia" tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia",MNP
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-country="Russia" tvg-logo="http://online-red.com/images/tv/86.png" group-title="Russia",86 Canal 
 https://sitv.ru/hls/s861024.m3u8
 #EXTINF:-1 tvg-country="Russia" tvg-logo="http://aisttv.ru/wp-content/uploads/2015/03/logo-white.png" group-title="Russia",Аист ТВ
@@ -66,8 +81,6 @@ http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://saransk-tv.ru/assets/images/slider/170321-pic-01.jpg" group-title="Russia", НТМ Мордовия
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://spyescapeandevasion.com/wp-content/uploads/izru.jpg" group-title="Russia",Izvestia
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.katun24.ru/bitrix/templates/k24/images/logo.png" group-title="Russia",Катунь 24
 https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1780629068/kr__400x400.jpg" group-title="Russia",Krasnodar TV
@@ -76,35 +89,5 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png" group-title="Russia",Муниципальное Телевидение Волгограда
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yStKJJr.png" group-title="Russia",Novyj Mir
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Russia",RBC
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="Russia",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/D5M4Gjr.png" group-title="Russia",RBK,RU | RBK
-http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Russia",TNT_EXCLUSIV,ТНТ Exclusive (Молдова)
-http://89.28.25.122/hls/tnt_md.m3u8?checkedby:hlscat.com
-#EXTINF:-1,Звезда HD
-#EXTGRP:Кино
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,РБК ТВ
-#EXTGRP:Общие
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia",RT Russia (1080p)
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NTS.ru" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="Russia",НТС (Севастополь) (1080p) [Not 24/7]
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Russia",Россия 24 (576p) [Not 24/7]
-http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
-#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="Russia",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="Russia",THT Canal
-https://oklive6-14.vkuser.net/hls/449331268191.m3u8/sig/BLmLX3R_jr8/expires/1679082345906/srcIp/85.244.75.99/urls/45.136.22.51/clientType/0/srcAg/CHROME/mid/854539312735/video.m3u8
-#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="Russia",THT Canal 4
-https://vsd86.mycdn.me/hls/479108795003.m3u8/sig/iltl7RU69iA/expires/1679160536051/srcIp/85.244.75.99/urls/185.226.52.49/clientType/0/srcAg/CHROME/mid/979125083771/video.m3u8
-
-
-#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="Russia",1 Kanal
-https://oklive6-4.vkuser.net/hls/528984312566.m3u8/sig/dzI5rCAumIA/expires/1679160195492/srcIp/85.244.75.99/urls/45.136.20.37/clientType/0/srcAg/CHROME/mid/1115050286838/video.m3u8
