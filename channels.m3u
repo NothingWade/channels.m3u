@@ -16,7 +16,7 @@ http://89.28.25.122/hls/tnt_md.m3u8?checkedby:hlscat.com
 
 
 #EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="Russia",1 Kanal
-https://oklive6-4.vkuser.net/hls/528984312566.m3u8/sig/dzI5rCAumIA/expires/1679160195492/srcIp/85.244.75.99/urls/45.136.20.37/clientType/0/srcAg/CHROME/mid/1115050286838/video.m3u8
+pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://seeklogo.com/images/H/htb-logo-DD6BC88F28-seeklogo.com.png" group-title="Russia",HTB
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 tvg-country="Russia" tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia",MNP
