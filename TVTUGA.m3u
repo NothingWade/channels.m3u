@@ -2,3 +2,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8
+
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",SPORT TV
+SPORTTV1 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+SPORTTV2 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+SPORTTV3 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+ELEVEN SPORTS 1 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+ELEVEN SPORTS 2 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+ELEVEN SPORTS 3 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+ELEVEN SPORTS 4 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+ELEVEN SPORTS 5 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+ELEVEN SPORTS 6 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",BENFICA TV
+BTV http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
