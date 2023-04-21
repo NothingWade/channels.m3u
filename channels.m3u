@@ -5,6 +5,8 @@ https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
 https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=12a146b27619285fa3da1c14d2258339d4961702
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Publika_logo_%282017%29.png" group-title="Moldova",Publika TV
 https://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://tv8.md/_next/static/files/logoLight.svg" group-title="Moldova",TV 8
+https://live.cdn.tv8.md/TV7/index.m3u8?token=059167d8bd9c988177b3c115c2806c02502e3c7e
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo50/moldova_tv_1_md.png" group-title="Moldova",Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
@@ -26,7 +28,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Russia",Russia 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TNT_logo.png" group-title="Russia",THT Canal
-https://ok.ru/3a3cbeec-da15-4c05-9688-9dfc30798773.m3u8
+https://oklive6-7.vkuser.net/hls/449331268191.m3u8/sig/QShHzkkQbW0/expires/1682184444148/srcIp/85.244.75.99/urls/45.136.22.67/clientType/0/srcAg/CHROME/mid/854539312735/video.m3u8
 #EXTINF:0 tvg-logo="https://www.gazprom-media.com/storage/uploads/partner/logo_hover/0/8/388/8388/9e270399a7413c6f2e91ec136784274b.png" group-title="Russia",THT Canal 4
 https://ok.ru/videoembed/979125083771.m3u8
 #EXTINF:-1 tvg-logo="https://spyescapeandevasion.com/wp-content/uploads/izru.jpg" group-title="Russia",Izvestia
