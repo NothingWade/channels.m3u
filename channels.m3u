@@ -15,10 +15,10 @@ http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 http://89.28.25.122/hls/tnt_md.m3u8?checkedby:hlscat.com
 
 
-#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="Russia",1 Kanal
+#EXTINF:0 tvg-country="RU" tvg-logo="https://camo.githubusercontent.com/0af5f37e6bc5147b987967b054255be0cae70262e01bbfb08d785f6800ab23b6/68747470733a2f2f692e696d6775722e636f6d2f314971434765392e706e67" group-title="Russia",1 Kanal
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://seeklogo.com/images/H/htb-logo-DD6BC88F28-seeklogo.com.png" group-title="Russia",HTB
-https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+https://www.ntv.ru/67d6f1ac-0edf-4856-b685-80869ac0a166.m3u8
 #EXTINF:-1 tvg-country="Russia" tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia",MNP
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://www.cableman.ru/sites/default/files/mir_24.png?1557903553" group-title="Russia",MNP 24
@@ -26,9 +26,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Russia",Russia 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TNT_logo.png" group-title="Russia",THT Canal
-https://oklive6-14.vkuser.net/hls/449331268191.m3u8/sig/qcHMSEPNhx4/expires/1679329689501/srcIp/85.244.75.99/urls/45.136.22.51/clientType/0/srcAg/CHROME/mid/854539312735/video.m3u8
+https://ok.ru/3a3cbeec-da15-4c05-9688-9dfc30798773.m3u8
 #EXTINF:0 tvg-logo="https://www.gazprom-media.com/storage/uploads/partner/logo_hover/0/8/388/8388/9e270399a7413c6f2e91ec136784274b.png" group-title="Russia",THT Canal 4
-https://vsd98.mycdn.me/hls/479108795003.m3u8/sig/JeYAVh06C8g/expires/1679329745299/srcIp/85.244.75.99/urls/185.226.53.46/clientType/0/srcAg/CHROME/mid/979125083771/video.m3u8
+https://ok.ru/videoembed/979125083771.m3u8
 #EXTINF:-1 tvg-logo="https://spyescapeandevasion.com/wp-content/uploads/izru.jpg" group-title="Russia",Izvestia
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yStKJJr.png" group-title="Russia",Novyj Mir
