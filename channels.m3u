@@ -20,7 +20,7 @@ http://89.28.25.122/hls/tnt_md.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="https://camo.githubusercontent.com/0af5f37e6bc5147b987967b054255be0cae70262e01bbfb08d785f6800ab23b6/68747470733a2f2f692e696d6775722e636f6d2f314971434765392e706e67" group-title="Russia",1 Kanal
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://seeklogo.com/images/H/htb-logo-DD6BC88F28-seeklogo.com.png" group-title="Russia",HTB
-https://my.ntv.ru/ec36d003-a0b4-4168-935a-4778cdcb6425
+https://my.ntv.ru/ec36d003-a0b4-4168-935a-4778cdcb6425.m3u8
 #EXTINF:-1 tvg-country="Russia" tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia",MNP
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://www.cableman.ru/sites/default/files/mir_24.png?1557903553" group-title="Russia",MNP 24
