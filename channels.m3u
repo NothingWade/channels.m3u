@@ -13,6 +13,8 @@ http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo50/moldova_tv_2_md.png" group-title="Moldova",Moldova 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:-1,RO: ProTv Chisinau
+http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/14342.ts
 #EXTINF:0 tvg-country="RU" tvg-logo="https://picon.ml/tnt-excl.png" group-title="Russia",THT Moldova
 http://89.28.25.122/hls/tnt_md.m3u8?checkedby:hlscat.com
 
@@ -20,15 +22,19 @@ http://89.28.25.122/hls/tnt_md.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="https://camo.githubusercontent.com/0af5f37e6bc5147b987967b054255be0cae70262e01bbfb08d785f6800ab23b6/68747470733a2f2f692e696d6775722e636f6d2f314971434765392e706e67" group-title="Russia",1 Kanal
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://seeklogo.com/images/H/htb-logo-DD6BC88F28-seeklogo.com.png" group-title="Russia",HTB
-https://my.ntv.ru/ec36d003-a0b4-4168-935a-4778cdcb6425.m3u8
+https://sirius.greenhosting.ru/NtvRu/video.m3u8
 #EXTINF:-1 tvg-country="Russia" tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia",MNP
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://www.cableman.ru/sites/default/files/mir_24.png?1557903553" group-title="Russia",MNP 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://static.wikia.nocookie.net/teleradio/images/7/78/%D0%A2%D0%923_9_%28%D0%A0%D0%B5%D0%B2%D0%B5%D1%80%D1%81%29.png/revision/latest?cb=20220910074846&path-prefix=uk" group-title="Russia",ТВ-3
+https://sirius.greenhosting.ru/Tv3/video.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://static.wikia.nocookie.net/teleradio/images/9/95/%D0%9F%27%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D1%8F_%28%D0%B1%D1%96%D0%BB%D0%B8%D0%B9%29.png/revision/latest?cb=20220910074723&path-prefix=uk" group-title="Russia",П'ятниця!
+https://sirius.greenhosting.ru/Pjatnica/video.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Russia",Russia 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TNT_logo.png" group-title="Russia",THT Canal
-https://oklive6-7.vkuser.net/hls/449331268191.m3u8/sig/QShHzkkQbW0/expires/1682184444148/srcIp/85.244.75.99/urls/45.136.22.67/clientType/0/srcAg/CHROME/mid/854539312735/video.m3u8
+https://sirius.greenhosting.ru/TNT/video.m3u8
 #EXTINF:0 tvg-logo="https://www.gazprom-media.com/storage/uploads/partner/logo_hover/0/8/388/8388/9e270399a7413c6f2e91ec136784274b.png" group-title="Russia",THT Canal 4
 https://vsd152.mycdn.me/hls/479108795003.m3u8/sig/tjhYGRxmC6M/expires/1682185128907/srcIp/85.244.75.99/urls/45.136.21.79/clientType/0/srcAg/CHROME/mid/979125083771/video.m3u8
 #EXTINF:-1 tvg-logo="https://spyescapeandevasion.com/wp-content/uploads/izru.jpg" group-title="Russia",Izvestia
