@@ -20,7 +20,7 @@ http://89.28.25.122/hls/tnt_md.m3u8?checkedby:hlscat.com
 
 
 #EXTINF:0 tvg-country="RU" tvg-logo="https://camo.githubusercontent.com/0af5f37e6bc5147b987967b054255be0cae70262e01bbfb08d785f6800ab23b6/68747470733a2f2f692e696d6775722e636f6d2f314971434765392e706e67" group-title="Russia",1 Kanal
-https://vsd90.mycdn.me/hls/528984312566.m3u8/sig/M777WwDe4cE/expires/1686420057137/srcIp/85.244.75.99/urls/185.226.52.95/clientType/0/srcAg/CHROME/mid/1115050286838/video.m3u8
+https://vsd90.mycdn.me/hls/528984312566.m3u8/sig/beVQgbJEwMg/expires/1686678606716/srcIp/85.244.75.99/urls/185.226.52.95/clientType/0/srcAg/CHROME/mid/1115050286838/video.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://seeklogo.com/images/H/htb-logo-DD6BC88F28-seeklogo.com.png" group-title="Russia",HTB
 https://sirius.greenhosting.ru/NtvRu/video.m3u8
 #EXTINF:-1 tvg-country="Russia" tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia",MNP
