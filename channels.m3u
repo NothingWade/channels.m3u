@@ -8,15 +8,23 @@ https://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://tv8.md/_next/static/files/logoLight.svg" group-title="Moldova",TV 8
 https://live.cdn.tv8.md/TV7/index.m3u8?token=059167d8bd9c988177b3c115c2806c02502e3c7e
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo50/moldova_tv_1_md.png" group-title="Moldova",Moldova 1
-http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+https://v3.trm.md/static/streaming-playlists/hls/82fed61f-aae9-4bb2-b327-7b0f32e55734/master.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
 https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo50/moldova_tv_2_md.png" group-title="Moldova",Moldova 2
-http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+https://stream.trm.md/static/streaming-playlists/hls/7d4704a4-71c9-4eab-b1dc-6dd56449b7e2/master.m3u8
 #EXTINF:-1,RO: ProTv Chisinau
 http://xtream-codes.no-ip.org:61250/live/labinot2/labinot2/14342.ts
 #EXTINF:0 tvg-country="RU" tvg-logo="https://picon.ml/tnt-excl.png" group-title="Russia",THT Moldova
 http://89.28.25.122/hls/tnt_md.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="MoldovaTV.md",Moldova TV (576p) [Not 24/7]
+http://89.38.8.130:39435
+#EXTINF:-1 tvg-id="SorTV.md",Sor TV (720p)
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1 tvg-id="TeleM.md",TeleM (576p)
+https://tv.streambox.ro/hls/telem/index.m3u8
+#EXTINF:-1 tvg-id="TezaurTV.md",Tezaur TV (1080p)
+http://tezaur.mlbfan.org/tezaur/index.m3u8
 
 
 #EXTINF:0 tvg-country="RU" tvg-logo="https://camo.githubusercontent.com/0af5f37e6bc5147b987967b054255be0cae70262e01bbfb08d785f6800ab23b6/68747470733a2f2f692e696d6775722e636f6d2f314971434765392e706e67" group-title="Russia",1 Kanal
