@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",TVR International
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://static.cdn.jurnaltv.md/brand-assets/dev/jurnaltv/jurnaltv_albastru_bold.png" group-title="Moldova",Jurnal TV
-https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=12a146b27619285fa3da1c14d2258339d4961702
+https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=39df9beb5b8504512290eaae50bf308cae4b4635
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Publika_logo_%282017%29.png" group-title="Moldova",Publika TV
 https://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://tv8.md/_next/static/files/logoLight.svg" group-title="Moldova",TV 8
-https://live.cdn.tv8.md/TV7/index.m3u8?token=059167d8bd9c988177b3c115c2806c02502e3c7e
+https://live.cdn.tv8.md/TV7/index.m3u8?token=c31f3d5514c96e12b209e8a42647488d76b0e536
+#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://tv8.md/_next/static/files/logoLight.svg" group-title="Moldova",primul moldova
+https://hls.primul.live/live/primul.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo50/moldova_tv_1_md.png" group-title="Moldova",Moldova 1
 https://v3.trm.md/static/streaming-playlists/hls/82fed61f-aae9-4bb2-b327-7b0f32e55734/master.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
