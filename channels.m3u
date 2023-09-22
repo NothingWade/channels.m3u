@@ -10,7 +10,7 @@ http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftvmoldova2%2F&psig=AOvVaw0wnvN7giUDO6qyDiZ1BmZm&ust=1693182200483000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOC0_67J-4ADFQAAAAAdAAAAABAE" group-title="Moldova",Moldova 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
-https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
+https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaTV.md" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="News",Realitatea
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="https://picon.ml/tnt-excl.png" group-title="Russia",THT Moldova
