@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://static.cdn.jurnaltv.md/brand-assets/dev/jurnaltv/jurnaltv_albastru_bold.png" group-title="Moldova",Jurnal TV
-https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=39df9beb5b8504512290eaae50bf308cae4b4635
+https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=39217c5f1c35faa034d5887270ac669b893831c9
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Publika_logo_%282017%29.png" group-title="Moldova",Publika TV
 https://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://tv8.md/_next/static/files/logoLight.svg" group-title="Moldova",TV 8
-https://live.cdn.tv8.md/TV7/index.m3u8?token=c31f3d5514c96e12b209e8a42647488d76b0e536
+https://live.cdn.tv8.md/TV7/index.m3u8?token=3cbd4395427430508d85c7c85d9996bca9f40134
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftvmoldova1%2F&psig=AOvVaw2tAgQrsxxybQ_T69eekNDs&ust=1693182160382000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLje6ZvJ-4ADFQAAAAAdAAAAABAq" group-title="Moldova",Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftvmoldova2%2F&psig=AOvVaw0wnvN7giUDO6qyDiZ1BmZm&ust=1693182200483000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOC0_67J-4ADFQAAAAAdAAAAABAE" group-title="Moldova",Moldova 2
