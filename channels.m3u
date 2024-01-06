@@ -6,7 +6,7 @@ https://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://tv8.md/_next/static/files/logoLight.svg" group-title="Moldova",TV 8
 https://live.cdn.tv8.md/TV7/index.m3u8?token=3cbd4395427430508d85c7c85d9996bca9f40134
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftvmoldova1%2F&psig=AOvVaw2tAgQrsxxybQ_T69eekNDs&ust=1693182160382000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLje6ZvJ-4ADFQAAAAAdAAAAABAq" group-title="Moldova",Moldova 1
-http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+blob:https://v.trm.md/b51f91fc-cd31-4021-abe3-2afe8481688a
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftvmoldova2%2F&psig=AOvVaw0wnvN7giUDO6qyDiZ1BmZm&ust=1693182200483000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOC0_67J-4ADFQAAAAAdAAAAABAE" group-title="Moldova",Moldova 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
@@ -107,3 +107,33 @@ http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="Russia",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
+
+
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Portugal", Sport TV 1
+http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="Portugal", Sport TV 2
+http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="Portugal", Sport TV 3
+http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" group-title="Portugal", Eleven Sports 1
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" group-title="Portugal", Eleven Sports 2
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" group-title="Portugal", Eleven Sports 3
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport4-pt.png" group-title="Portugal", Eleven Sports 4
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png" group-title="Portugal", Eleven Sports 5
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport6-pt.png" group-title="Portugal", Eleven Sports 6
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+
