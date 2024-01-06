@@ -1,44 +1,30 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8
 
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",SPORT TV
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Portugal", Sport TV 1
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",SPORT 2 TV
-https://www.niaomea.me/dda99b9d-188a-4e79-a007-3c5c47e5b83b
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="Portugal", Sport TV 2
+http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",SPORT 3 TV
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="Portugal", Sport TV 3
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",ELEVEN SPORTS 1
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" group-title="Portugal", Eleven Sports 1
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",ELEVEN SPORTS 2
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" group-title="Portugal", Eleven Sports 2
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",ELEVEN SPORTS 3
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" group-title="Portugal", Eleven Sports 3
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",ELEVEN SPORTS 4
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport4-pt.png" group-title="Portugal", Eleven Sports 4
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",ELEVEN SPORTS 5
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png" group-title="Portugal", Eleven Sports 5
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",ELEVEN SPORTS 6
+#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport6-pt.png" group-title="Portugal", Eleven Sports 6
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",BENFICA TV
-BTV http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",BENFICA TV
-BTV http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://1.bp.blogspot.com/-2s5t1lYxQO4/V_DKdHcdzsI/AAAAAAAAAXU/yHLxC4qyuM4kOh5Dn9RJtTRUbNmq8iiPACLcB/s1600/tvr-moldova.png" group-title="Moldova",BENFICA TV
-BTV http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
 
