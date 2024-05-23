@@ -110,32 +110,22 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 
 #EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="Portugal", B TV
 https://love2live.wideiptv.top/BTV1/preview.mp4?token=acaa0a49f2ad320d47f19ca049cf113343a07c2b-29d7c1790e0c58dfd290163cba8d065b-1716497644-1716486844
-
-
 #EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Portugal", Sport TV 1
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
 #EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="Portugal", Sport TV 2
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
 #EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="Portugal", Sport TV 3
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
 #EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" group-title="Portugal", Eleven Sports 1
 https://love2live.wideiptv.top/ELEVEN1/preview.mp4?token=bb4f94a1cac3cc94ca7efe92bcdaed492ceffdf6-dbd8fc2702c245e07c0cbd31d639f935-1716498329-1716487529
-
 #EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" group-title="Portugal", Eleven Sports 2
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
+https://love2live.wideiptv.top/ELEVEN2/preview.mp4?token=5ba80794ce9d8d5ee170ed053fa9223d687ba7f6-23e77573d41511047caa1429f3a00d7e-1716498512-1716487712
 #EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" group-title="Portugal", Eleven Sports 3
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
 #EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport4-pt.png" group-title="Portugal", Eleven Sports 4
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
 #EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png" group-title="Portugal", Eleven Sports 5
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
 #EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport6-pt.png" group-title="Portugal", Eleven Sports 6
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
