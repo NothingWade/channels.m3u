@@ -6,7 +6,7 @@ https://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062022/tv8.md_.png?Hd2w7yTD0ovstLPAtNYa.A.ymvTbvZyQ&itok=Bp92nE0Q" group-title="Moldova",TV 8
 https://live.cdn.tv8.md/TV7/index.m3u8?token=3cbd4395427430508d85c7c85d9996bca9f40134
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftvmoldova1%2F&psig=AOvVaw2tAgQrsxxybQ_T69eekNDs&ust=1693182160382000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLje6ZvJ-4ADFQAAAAAdAAAAABAq" group-title="Moldova",Moldova 1
-https://v.trm.md/b51f91fc-cd31-4021-abe3-2afe8481688a
+https://v0.trm.md/videos/embed/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca?warningTitle=0&peertubeLink=0
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftvmoldova2%2F&psig=AOvVaw0wnvN7giUDO6qyDiZ1BmZm&ust=1693182200483000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOC0_67J-4ADFQAAAAAdAAAAABAE" group-title="Moldova",Moldova 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
