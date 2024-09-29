@@ -1,30 +1,20 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Portugal", Sport TV 1
-http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="Portugal", Sport TV 2
-http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="Portugal", Sport TV 3
-http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" group-title="Portugal", Eleven Sports 1
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" group-title="Portugal", Eleven Sports 2
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" group-title="Portugal", Eleven Sports 3
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport4-pt.png" group-title="Portugal", Eleven Sports 4
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png" group-title="Portugal", Eleven Sports 5
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1 tvg-country="Portugal" tvg-logo="https://epgx.site/p/eleven-sport6-pt.png" group-title="Portugal", Eleven Sports 6
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1 HD
+http://cord-cutter.net:8080/7kjJ21/193846/167742
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 2 HD
+http://cord-cutter.net:8080/7kjJ21/193846/167743
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 4 HD
+http://cord-cutter.net:8080/7kjJ21/193846/167745
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Eleven Sports 1 HD 
+http://cord-cutter.net:8080/7kjJ21/193846/35264
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 3 HD
+http://cord-cutter.net:8080/7kjJ21/193846/167748
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://cord-cutter.net:8080/7kjJ21/193846/167749
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://cord-cutter.net:8080/7kjJ21/193846/167750
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BENFICA TV HD
+http://cord-cutter.net:8080/7kjJ21/193846/136726
 
