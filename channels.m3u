@@ -108,334 +108,324 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="Russia",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="http://mylogos.xyz/LogosPT/RTP1.png" group-title="VIP PORTUGAL",RTP 1
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/1
-#EXTINF:-1 tvg-id="RTP 1 FHD" tvg-name="RTP 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP1.png" group-title="VIP PORTUGAL",RTP 1 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/3
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="http://mylogos.xyz/LogosPT/RTP2.png" group-title="VIP PORTUGAL",RTP 2
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/4
-#EXTINF:-1 tvg-id="RTP 2 FHD" tvg-name="RTP 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP2.png" group-title="VIP PORTUGAL",RTP 2 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/5
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://mylogos.xyz/LogosPT/SIC.png" group-title="VIP PORTUGAL",SIC
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/9142
-#EXTINF:-1 tvg-id="SIC FHD" tvg-name="SIC (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.png" group-title="VIP PORTUGAL",SIC (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://mylogos.xyz/LogosPT/TVI.png" group-title="VIP PORTUGAL",TVI
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/9
-#EXTINF:-1 tvg-id="TVI FHD" tvg-name="TVI (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/TVI.png" group-title="VIP PORTUGAL",TVI (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/225
-#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="http://mylogos.xyz/LogosPT/RTP3.png" group-title="VIP PORTUGAL",RTP 3
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/11
-#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP3.png" group-title="VIP PORTUGAL",RTP 3 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/22158
-#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="SIC Noticias" tvg-logo="http://mylogos.xyz/LogosPT/Sic.Noticias.png" group-title="VIP PORTUGAL",SIC Noticias
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/24
-#EXTINF:-1 tvg-id="SIC NOTÍCIAS FHD" tvg-name="SIC Noticias (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sic.Noticias.png" group-title="VIP PORTUGAL",SIC Noticias (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/25
-#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN Portugal" tvg-logo="http://mylogos.xyz/LogosPT/cnnPT.png" group-title="VIP PORTUGAL",CNN Portugal
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/26
-#EXTINF:-1 tvg-id="CNN Portugal FHD" tvg-name="CNN Portugal (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/cnnPT.png" group-title="VIP PORTUGAL",CNN Portugal (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/269
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://mylogos.xyz/LogosPT/CMtv.png" group-title="VIP PORTUGAL",CMTV
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/22
-#EXTINF:-1 tvg-id="CMTV FHD" tvg-name="CMTV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/CMtv.png" group-title="VIP PORTUGAL",CMTV (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/23
-#EXTINF:-1 tvg-id="NEWS NOW" tvg-name="NEWS NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/News_Now.svg/revision/latest?cb=20240515141142" group-title="VIP PORTUGAL",NEWS NOW
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/115791
-#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="Porto Canal" tvg-logo="http://mylogos.xyz/LogosPT/Porto.Canal.png" group-title="VIP PORTUGAL",Porto Canal
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/65
-#EXTINF:-1 tvg-id="PORTO CANAL FHD" tvg-name="Porto Canal (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Porto.Canal.1080p.png" group-title="VIP PORTUGAL",Porto Canal (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/23281
-#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="SIC Mulher" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Mulher.png" group-title="VIP PORTUGAL",SIC Mulher
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/17
-#EXTINF:-1 tvg-id="SIC MULHER FHD" tvg-name="SIC Mulher (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Mulher.png" group-title="VIP PORTUGAL",SIC Mulher (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/24261
-#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC Radical" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Radical.png" group-title="VIP PORTUGAL",SIC Radical
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/16
-#EXTINF:-1 tvg-id="SIC RADICAL FHD" tvg-name="SIC Radical (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Radical.png" group-title="VIP PORTUGAL",SIC Radical (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/22165
-#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="SIC Caras" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Caras.png" group-title="VIP PORTUGAL",SIC Caras
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/18
-#EXTINF:-1 tvg-id="SIC CARAS FHD" tvg-name="SIC Caras (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Caras.1080p.png" group-title="VIP PORTUGAL",SIC Caras (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/30029
-#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="TVI Ficção" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Ficcao.png" group-title="VIP PORTUGAL",TVI Ficção
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/21
-#EXTINF:-1 tvg-id="TVI FICÇÃO HD" tvg-name="TVI V+ (FullHD)" tvg-logo="https://boxlogos.top/LogosPT/tviV+.png" group-title="VIP PORTUGAL",TVI V+ (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/20843
-#EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-name="RTP Africa" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Africa.png" group-title="VIP PORTUGAL",RTP Africa
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/12
-#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP Madeira" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Madeira.png" group-title="VIP PORTUGAL",RTP Madeira
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/15
-#EXTINF:-1 tvg-id="RTP AÇORES" tvg-name="RTP Açores" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Acores.png" group-title="VIP PORTUGAL",RTP Açores
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/13
-#EXTINF:-1 tvg-id="RTP MEMÓRIA" tvg-name="RTP Memória" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Memoria.png" group-title="VIP PORTUGAL",RTP Memória
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/14
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.png" group-title="VIP PORTUGAL",TVI Reality
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/20
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.png" group-title="VIP PORTUGAL",TVI Reality (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/21593
-#EXTINF:-1 tvg-id="TVI REALITY MOSAICO" tvg-name="TVI Reality ✬Mosaico✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Mosaico.png" group-title="VIP PORTUGAL",TVI Reality ✬Mosaico✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/30330
-#EXTINF:-1 tvg-id="TVI REALITY CAMERA 1" tvg-name="TVI Reality ✬Camera 1✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam1.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 1✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/30331
-#EXTINF:-1 tvg-id="TVI REALITY CAMERA 2" tvg-name="TVI Reality ✬Camera 2✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam2.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 2✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/30332
-#EXTINF:-1 tvg-id="TVI REALITY CAMERA 3" tvg-name="TVI Reality ✬Camera 3✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam3.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 3✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/30333
-#EXTINF:-1 tvg-id="TVI REALITY CAMERA 4" tvg-name="TVI Reality ✬Camera 4✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam4.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 4✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/76344
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo" tvg-logo="http://mylogos.xyz/LogosPT/Globo.png" group-title="VIP PORTUGAL",Globo
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/164
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TV" tvg-logo="http://mylogos.xyz/LogosPT/aBolaTV.png" group-title="VIP PORTUGAL",A Bola TV
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/27
-#EXTINF:-1 tvg-id="A BOLA FHD" tvg-name="A Bola TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/aBolaTV.png" group-title="VIP PORTUGAL",A Bola TV (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/22167
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11" tvg-logo="http://mylogos.xyz/LogosPT/Canal11.png" group-title="VIP PORTUGAL",CANAL 11
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/23282
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Canal11.png" group-title="VIP PORTUGAL",Canal 11 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/32
-#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="Sport TV+" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV+.png" group-title="VIP PORTUGAL",Sport TV+
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/34
-#EXTINF:-1 tvg-id="SPORT TV+ FHD" tvg-name="Sport TV+ (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SportTV+.png" group-title="VIP PORTUGAL",Sport TV+ (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/35
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="Sport TV 1" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" group-title="VIP PORTUGAL",Sport TV 1
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/36
-#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="Sport TV 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" group-title="VIP PORTUGAL",Sport TV 1 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/49
-#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="Sport TV 1 ✬Alternativa✬" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.1080p.png" group-title="VIP PORTUGAL",Sport TV 1 ✬Alternativa✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/31013
-#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="Sport TV 1 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.H265.png" group-title="VIP PORTUGAL",Sport TV 1 ✬H265✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/22171
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="Sport TV 2" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" group-title="VIP PORTUGAL",Sport TV 2
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/37
-#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="Sport TV 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" group-title="VIP PORTUGAL",Sport TV 2 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/50
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="Sport TV 3" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" group-title="VIP PORTUGAL",Sport TV 3
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/38
-#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="Sport TV 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" group-title="VIP PORTUGAL",Sport TV 3 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/51
-#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="Sport TV 4" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" group-title="VIP PORTUGAL",Sport TV 4
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/39
-#EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-name="Sport TV 4 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" group-title="VIP PORTUGAL",Sport TV 4 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/14143
-#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="Sport TV 5" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.png" group-title="VIP PORTUGAL",Sport TV 5
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/40
-#EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-name="Sport TV 5 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.1080P.png" group-title="VIP PORTUGAL",Sport TV 5 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/283
-#EXTINF:-1 tvg-id="SPORT TV 6" tvg-name="Sport TV 6" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" group-title="VIP PORTUGAL",Sport TV 6
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/73258
-#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="Sport TV 6 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" group-title="VIP PORTUGAL",Sport TV 6 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/73259
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 7 (FullHD)" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV7.png" group-title="VIP PORTUGAL",Sport TV 7 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/115827
-#EXTINF:-1 tvg-id="SPORT TV NBA FHD" tvg-name="Sport TV NBA" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV.NBA.1080P.png" group-title="VIP PORTUGAL",Sport TV NBA
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/41
-#EXTINF:-1 tvg-id="BTV" tvg-name="Benfica TV" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.png" group-title="VIP PORTUGAL",Benfica TV
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/29
-#EXTINF:-1 tvg-id="BTV FHD" tvg-name="Benfica TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.1080p.png" group-title="VIP PORTUGAL",Benfica TV (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/30
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="Benfica TV ✬Alternativa✬" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.1080p.png" group-title="VIP PORTUGAL",Benfica TV ✬Alternativa✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/31016
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="Benfica TV ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.H265.png" group-title="VIP PORTUGAL",Benfica TV ✬H265✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/22169
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="Eleven Sports 1" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.png" group-title="VIP PORTUGAL",Eleven Sports 1
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/52
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="Eleven Sports 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 1 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/54
-#EXTINF:-1 tvg-id="eleven.1.pt" tvg-name="Eleven Sports 1 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.H265.png" group-title="VIP PORTUGAL",Eleven Sports 1 ✬H265✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/24166
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="Eleven Sports 2" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" group-title="VIP PORTUGAL",Eleven Sports 2
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/55
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 FHD" tvg-name="Eleven Sports 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" group-title="VIP PORTUGAL",Eleven Sports 2 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/57
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="Eleven Sports 2 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.H265.png" group-title="VIP PORTUGAL",Eleven Sports 2 ✬H265✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/24167
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="Eleven Sports 3" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" group-title="VIP PORTUGAL",Eleven Sports 3
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/58
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 FHD" tvg-name="Eleven Sports 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" group-title="VIP PORTUGAL",Eleven Sports 3 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/60
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="Eleven Sports 4" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.png" group-title="VIP PORTUGAL",Eleven Sports 4
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/284
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 FHD" tvg-name="Eleven Sports 4 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 4 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/61
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="Eleven Sports 5" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.png" group-title="VIP PORTUGAL",Eleven Sports 5
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/286
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 FHD" tvg-name="Eleven Sports 5 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 5 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/62
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="Eleven Sports 6" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.png" group-title="VIP PORTUGAL",Eleven Sports 6
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/289
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 FHD" tvg-name="Eleven Sports 6 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 6 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/63
-#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="Sporting TV" tvg-logo="http://mylogos.xyz/LogosPT/SportingTV.png" group-title="VIP PORTUGAL",Sporting TV
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/64
-#EXTINF:-1 tvg-id="SPORTING TV FHD" tvg-name="Sporting TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SportingTV.1080p.png" group-title="VIP PORTUGAL",Sporting TV (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/23285
-#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="Eurosport 1" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport1.png" group-title="VIP PORTUGAL",Eurosport 1
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/70
-#EXTINF:-1 tvg-id="EUROSPORT 1 FHD" tvg-name="Eurosport 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport1.1080p.png" group-title="VIP PORTUGAL",Eurosport 1 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/71
-#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="Eurosport 2" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport2.png" group-title="VIP PORTUGAL",Eurosport 2
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/72
-#EXTINF:-1 tvg-id="EUROSPORT 2 FHD" tvg-name="Eurosport 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport2.png" group-title="VIP PORTUGAL",Eurosport 2 (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/73
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Kids✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Kids.png" group-title="VIP PORTUGAL",Play ✬Kids✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/31158
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Disney✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Disney.png" group-title="VIP PORTUGAL",Play ✬Disney✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/31159
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Pixar✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Pixar.png" group-title="VIP PORTUGAL",Play ✬Pixar✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/42316
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬DreamWorks✬" tvg-logo="http://mylogos.xyz/LogosPT/Play.Dreamworks.png" group-title="VIP PORTUGAL",Play ✬DreamWorks✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/43227
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Luccas Neto✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.LucasNeto.png" group-title="VIP PORTUGAL",Play ✬Luccas Neto✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/31163
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Artista da Semana✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.ArtistaDaSemana.png" group-title="VIP PORTUGAL",Play ✬Artista da Semana✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/32074
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Cinema✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Cinema.png" group-title="VIP PORTUGAL",Play ✬Cinema✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/32138
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Acção✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Accao.png" group-title="VIP PORTUGAL",Play ✬Acção✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/31166
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Comédias✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Comedias.png" group-title="VIP PORTUGAL",Play ✬Comédias✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/32978
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Dramas✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Dramas.png" group-title="VIP PORTUGAL",Play ✬Dramas✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/31165
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Ficção e Fantasia✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.FiccaoFantasia.png" group-title="VIP PORTUGAL",Play ✬Ficção e Fantasia✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/32137
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Marvel✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel1.png" group-title="VIP PORTUGAL",Play ✬Marvel✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/32076
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Marvel 2✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel2.png" group-title="VIP PORTUGAL",Play ✬Marvel 2✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/43300
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬DC Comics✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.DCcomics.png" group-title="VIP PORTUGAL",Play ✬DC Comics✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/32979
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Sagas e Trilogias✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Sagas.png" group-title="VIP PORTUGAL",Play ✬Sagas e Trilogias✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/32152
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Western✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Western.2021.png" group-title="VIP PORTUGAL",Play ✬Western✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/32151
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Terror✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Terror.png" group-title="VIP PORTUGAL",Play ✬Terror✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/33009
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Cinema Português✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.CinemaTuga.png" group-title="VIP PORTUGAL",Play ✬Cinema Português✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/113486
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Documentários✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Documentarios.png" group-title="VIP PORTUGAL",Play ✬Documentários✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/82513
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Tomorrowland✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Tomorrowland.png" group-title="VIP PORTUGAL",Play ✬Tomorrowland✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/32139
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Dj´s✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Djs.png" group-title="VIP PORTUGAL",Play ✬Dj´s✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/32136
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Music✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Music.png" group-title="VIP PORTUGAL",Play ✬Music✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/31160
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Concerts✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Concerts.png" group-title="VIP PORTUGAL",Play ✬Concerts✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/31161
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬The Voice✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.TheVoice.png" group-title="VIP PORTUGAL",Play ✬The Voice✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/33010
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Stand-Up Comedy✬" tvg-logo="http://mylogos.xyz/LogosPlay/PlayStandup.png" group-title="VIP PORTUGAL",Play ✬Stand-Up Comedy✬
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/48741
-#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCine Top" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.top.png" group-title="VIP PORTUGAL",TVCine Top
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/83
-#EXTINF:-1 tvg-id="TVCine TOP FHD" tvg-name="TVCine Top (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.top.png" group-title="VIP PORTUGAL",TVCine Top (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/84
-#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="TVCine Edition" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.edition.png" group-title="VIP PORTUGAL",TVCine Edition
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/85
-#EXTINF:-1 tvg-id="TVCine EDITION FHD" tvg-name="TVCine Edition (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.edition.1080p.png" group-title="VIP PORTUGAL",TVCine Edition (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/86
-#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCine Emotion" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.emotion.png" group-title="VIP PORTUGAL",TVCine Emotion
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/87
-#EXTINF:-1 tvg-id="TVCine EMOTION FHD" tvg-name="TVCine Emotion (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.emotion.png" group-title="VIP PORTUGAL",TVCine Emotion (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/88
-#EXTINF:-1 tvg-id="TVCine ACTION" tvg-name="TVCine Action" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.action.png" group-title="VIP PORTUGAL",TVCine Action
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/89
-#EXTINF:-1 tvg-id="TVCine ACTION FHD" tvg-name="TVCine Action (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.action.png" group-title="VIP PORTUGAL",TVCine Action (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/90
-#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="NOS Studios" tvg-logo="http://mylogos.xyz/LogosPT/NosStudios.png" group-title="VIP PORTUGAL",NOS Studios
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/14142
-#EXTINF:-1 tvg-id="NOS STUDIOS FHD" tvg-name="Nos studios (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/NosStudios.png" group-title="VIP PORTUGAL",Nos studios (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/100
-#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo" tvg-logo="http://mylogos.xyz/LogosPT/cinemundo.png" group-title="VIP PORTUGAL",Cinemundo
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/97
-#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="Cinemundo (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/cinemundo.png" group-title="VIP PORTUGAL",Cinemundo (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/22183
-#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="Hollywood" tvg-logo="http://mylogos.xyz/LogosPT/hollywood.png" group-title="VIP PORTUGAL",Hollywood
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/95
-#EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="Hollywood (FullHD)" tvg-logo="http://naoadianta696969.live:80/images/b0bac411b0b17f4e7538dd0f42023d02.png" group-title="VIP PORTUGAL",Hollywood (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/96
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://mylogos.xyz/LogosPT/AMC.png" group-title="VIP PORTUGAL",AMC
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/104
-#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/AMC.png" group-title="VIP PORTUGAL",AMC (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/105
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://mylogos.xyz/LogosPT/axn.png" group-title="VIP PORTUGAL",AXN
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/106
-#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.1080p.png" group-title="VIP PORTUGAL",AXN (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/107
-#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN White" tvg-logo="http://mylogos.xyz/LogosPT/axn.white.png" group-title="VIP PORTUGAL",AXN White
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/110
-#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN White (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.white.1080p.png" group-title="VIP PORTUGAL",AXN White (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/111
-#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN Movies" tvg-logo="http://mylogos.xyz/LogosPT/axn.movies.png" group-title="VIP PORTUGAL",AXN Movies
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/108
-#EXTINF:-1 tvg-id="AXN MOVIES FHD" tvg-name="AXN Movies (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.movies.png" group-title="VIP PORTUGAL",AXN Movies (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/109
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="FOX" tvg-logo="http://mylogos.xyz/LogosPT/Fox.png" group-title="VIP PORTUGAL",FOX
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/112
-#EXTINF:-1 tvg-id="FOX PT" tvg-name="FOX (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.png" group-title="VIP PORTUGAL",FOX (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/113
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX Life" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Life.png" group-title="VIP PORTUGAL",FOX Life
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/116
-#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="FOX Life (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Life.png" group-title="VIP PORTUGAL",FOX Life (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/117
-#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="FOX Crime" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Crime.png" group-title="VIP PORTUGAL",FOX Crime
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/115
-#EXTINF:-1 tvg-id="FOX CRIME FHD" tvg-name="FOX Crime (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Crime.png" group-title="VIP PORTUGAL",FOX Crime (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/101
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="FOX Movies" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Movies.png" group-title="VIP PORTUGAL",FOX Movies
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/102
-#EXTINF:-1 tvg-id="FOX MOVIES FHD" tvg-name="FOX Movies (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Movies.png" group-title="VIP PORTUGAL",FOX Movies (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/25830
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="FOX Comedy" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Comedy.png" group-title="VIP PORTUGAL",FOX Comedy
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/114
-#EXTINF:-1 tvg-id="FOX COMEDY FHD" tvg-name="FOX Comedy (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Comedy.png" group-title="VIP PORTUGAL",FOX Comedy (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/29332
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://mylogos.xyz/LogosPT/Syfy.png" group-title="VIP PORTUGAL",SYFY
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/93
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="Disney Channel" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Channel.png" group-title="VIP PORTUGAL",Disney Channel
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/124
-#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="Disney Junior" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Junior.png" group-title="VIP PORTUGAL",Disney Junior
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/123
-#EXTINF:-1 tvg-id="BIGGS" tvg-name="Biggs" tvg-logo="http://mylogos.xyz/LogosPT/Biggs.png" group-title="VIP PORTUGAL",Biggs
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/120
-#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SIC%20K.png" group-title="VIP PORTUGAL",SIC K
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/128
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="Cartoon Network" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/CARTOON%20NETWORK.png" group-title="VIP PORTUGAL",Cartoon Network
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/122
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nickelodeon.png" group-title="VIP PORTUGAL",Nickelodeon
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/125
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr." tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nick%20Jr..png" group-title="VIP PORTUGAL",Nick Jr.
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/126
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby TV" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/BABY%20TV.png" group-title="VIP PORTUGAL",Baby TV
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/118
-#EXTINF:-1 tvg-id="Panda KIDS" tvg-name="Panda Kids" tvg-logo="http://mylogos.xyz/LogosPT/Panda.Kids.png" group-title="VIP PORTUGAL",Panda Kids
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/76617
-#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="Canal Panda" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Canal%20Panda.png" group-title="VIP PORTUGAL",Canal Panda
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/121
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Boomerang.png" group-title="VIP PORTUGAL",Boomerang
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/119
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="Nat Geo" tvg-logo="http://mylogos.xyz/LogosPT/NatGeo.png" group-title="VIP PORTUGAL",Nat Geo
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/30057
-#EXTINF:-1 tvg-id="NAT GEO WILD FHD" tvg-name="Nat Geo Wild" tvg-logo="http://mylogos.xyz/LogosPT/NatGeoWild.png" group-title="VIP PORTUGAL",Nat Geo Wild
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/140
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="Discovery Channel" tvg-logo="http://mylogos.xyz/LogosPT/Discovery.Channel.png" group-title="VIP PORTUGAL",Discovery Channel
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/134
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL FHD" tvg-name="Discovery Channel (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Discovery.Channel.png" group-title="VIP PORTUGAL",Discovery Channel (FullHD)
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/136
-#EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY" tvg-name="Investigation Discovery" tvg-logo="http://mylogos.xyz/LogosPT/InvestigationDiscovery.png" group-title="VIP PORTUGAL",Investigation Discovery
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/30061
-#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="Crime Investigation" tvg-logo="http://mylogos.xyz/LogosPT/CrimeInvestigation.png" group-title="VIP PORTUGAL",Crime Investigation
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/133
-#EXTINF:-1 tvg-id="TRAVEL CHANNEL FHD" tvg-name="Travel Channel" tvg-logo="http://mylogos.xyz/LogosPT/Travel.Channel.png" group-title="VIP PORTUGAL",Travel Channel
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/152
-#EXTINF:-1 tvg-id="ODISSEIA" tvg-name="Odisseia" tvg-logo="http://mylogos.xyz/LogosPT/Odisseia.png" group-title="VIP PORTUGAL",Odisseia
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/146
-#EXTINF:-1 tvg-id="HISTÓRIA" tvg-name="História" tvg-logo="http://mylogos.xyz/LogosPT/Historia.png" group-title="VIP PORTUGAL",História
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/148
-#EXTINF:-1 tvg-id="CANAL Q" tvg-name="Canal Q" tvg-logo="http://mylogos.xyz/LogosPT/CanalQ.png" group-title="VIP PORTUGAL",Canal Q
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/169
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://mylogos.xyz/LogosPT/TLC.png" group-title="VIP PORTUGAL",TLC
-http://rafadnsvip.live:8080/CarlosAstral2021/ServiceAstralCarlos/151
+#EXTINF:-1, ===SureStreams====
+#EXTINF:-1,btv
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/27
+#EXTINF:-1,eleven sport 1
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/35
+#EXTINF:-1,eleven sport 2
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
+#EXTINF:-1,eleven sport 3
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/37
+#EXTINF:-1,eleven sport 4
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/38
+#EXTINF:-1,eleven sport 5
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
+#EXTINF:-1,eleven sport 6
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/40
+#EXTINF:-1,sporttv 1 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
+#EXTINF:-1,sporttv 2 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
+#EXTINF:-1,sporttv3 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
+#EXTINF:-1,sporttv 4
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
+#EXTINF:-1,sporttv 5
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
+
+#EXTINF:-1, ===Playlist====
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/SCrzeyi.png",[PT] BTV
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147219.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 1
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147220.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 2
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147221.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 3
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147222.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 4
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147223.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 5
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147224.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 1 HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/104077.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 2 HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/104079.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 3 HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/104081.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 4 HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/104082.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 5 HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/104085.mpegts
+
+#EXTINF:-1, ===Mike2====
+#EXTINF:-1,PT: Sport TV 1 HD
+http://mike2.ca:80/c3qkwb/o561ya/999800
+#EXTINF:-1,PT: Sport TV 2 HD
+http://mike2.ca:80/c3qkwb/o561ya/999799
+#EXTINF:-1,PT: Sport TV 3 HD
+http://mike2.ca:80/c3qkwb/o561ya/795
+#EXTINF:-1,PT: Sport TV 4 HD
+http://mike2.ca:80/c3qkwb/o561ya/999793
+#EXTINF:-1,PT: Sport TV 5 HD
+http://mike2.ca:80/c3qkwb/o561ya/999789
+#EXTINF:-1,PT: Sport TV 6 HD
+http://mike2.ca:80/c3qkwb/o561ya/999788
+#EXTINF:-1,Eleven Sports 1 HD
+http://mike2.ca:80/c3qkwb/o561ya/821
+#EXTINF:-1,Eleven Sports 2 HD
+http://mike2.ca:80/c3qkwb/o561ya/818
+#EXTINF:-1,Eleven Sports 3 HD
+http://mike2.ca:80/c3qkwb/o561ya/814
+#EXTINF:-1,Eleven Sports 4 HD
+http://mike2.ca:80/c3qkwb/o561ya/811
+#EXTINF:-1,Eleven Sports 5 HD
+http://mike2.ca:80/c3qkwb/o561ya/808
+
+#EXTINF:-1, ===tv mate====
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://tvmate.icu:8080/7686199/9576982/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://tvmate.icu:8080/7686199/9576982/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://tvmate.icu:8080/7686199/9576982/167744
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://tvmate.icu:8080/7686199/9576982/167745
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://tvmate.icu:8080/7686199/9576982/167748
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://tvmate.icu:8080/7686199/9576982/167749
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://tvmate.icu:8080/7686199/9576982/167750
+
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://cord-cutter.net:8080/30550113/30550113/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://cord-cutter.net:8080/30550113/30550113/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://cord-cutter.net:8080/30550113/30550113/167744
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://cord-cutter.net:8080/30550113/30550113/167745
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://cord-cutter.net:8080/30550113/30550113/167748
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://cord-cutter.net:8080/30550113/30550113/167749
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://cord-cutter.net:8080/30550113/30550113/167750
+
+#EXTINF:-1, ===Rafa====
+#EXTINF:-1,Benfica TV
+http://rafadnsvip.live:8080/Mauro/M12345@2024/29
+#EXTINF:-1,Benfica TV (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/30
+#EXTINF:-1,Benfica TV 
+http://rafadnsvip.live:8080/Mauro/M12345@2024/31016
+#EXTINF:-1,Eleven Sports 1
+http://rafadnsvip.live:8080/Mauro/M12345@2024/52
+#EXTINF:-1,Eleven Sports 1 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/54
+#EXTINF:-1,Eleven Sports 1 âœ¬H265âœ¬
+http://rafadnsvip.live:8080/Mauro/M12345@2024/24166
+#EXTINF:-1,Eleven Sports 2
+http://rafadnsvip.live:8080/Mauro/M12345@2024/55
+#EXTINF:-1,Eleven Sports 2 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/57
+#EXTINF:-1,Eleven Sports 2
+http://rafadnsvip.live:8080/Mauro/M12345@2024/24167
+#EXTINF:-1,Eleven Sports 3
+http://rafadnsvip.live:8080/Mauro/M12345@2024/58
+#EXTINF:-1,Eleven Sports 3 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/60
+#EXTINF:-1,Eleven Sports 4
+http://rafadnsvip.live:8080/Mauro/M12345@2024/284
+#EXTINF:-1,Eleven Sports 4 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/61
+#EXTINF:-1,Eleven Sports 5
+http://rafadnsvip.live:8080/Mauro/M12345@2024/286
+#EXTINF:-1,Eleven Sports 5 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/62
+
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Sport TV 1
+http://rafadnsvip.live:8080/Mauro/M12345@2024/31013
+#EXTINF:-1,Sport TV 1 
+http://rafadnsvip.live:8080/Mauro/M12345@2024/22171
+#EXTINF:-1,Sport TV 2
+http://rafadnsvip.live:8080/Mauro/M12345@2024/37
+#EXTINF:-1,Sport TV 2 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/50
+#EXTINF:-1,Sport TV 3
+http://rafadnsvip.live:8080/Mauro/M12345@2024/38
+#EXTINF:-1,Sport TV 3 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/51
+#EXTINF:-1,Sport TV 4
+http://rafadnsvip.live:8080/Mauro/M12345@2024/39
+#EXTINF:-1,Sport TV 4 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/14143
+#EXTINF:-1,Sport TV 5
+http://rafadnsvip.live:8080/Mauro/M12345@2024/40
+#EXTINF:-1,Sport TV 5 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/283
+
+
+
+
+
+#EXTINF:-1, ===fonte.lista====
+#EXTINF:-1,ELEVEN SPORTS 1 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7459
+#EXTINF:-1,ELEVEN SPORTS 2 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7456
+#EXTINF:-1,ELEVEN SPORTS 3 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7453
+#EXTINF:-1,ELEVEN SPORTS 4 HD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7449
+#EXTINF:-1,ELEVEN SPORTS 5 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7447
+#EXTINF:-1,SPORT TV 1 HD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7438
+#EXTINF:-1,SPORT TV 1 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7439
+#EXTINF:-1,SPORT TV 2 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7435
+#EXTINF:-1,SPORT TV 3 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7433
+#EXTINF:-1,SPORT TV 4 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7430
+#EXTINF:-1,SPORT TV 5 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7427
+
+#EXTINF:-1, ===Aflax====
+#EXTINF:-1,PT: Benfica TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1497
+#EXTINF:-1,PT: DAZN 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1499
+#EXTINF:-1,PT: DAZN 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1503
+#EXTINF:-1,PT: DAZN 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1506
+#EXTINF:-1,PT: DAZN 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1509
+#EXTINF:-1,PT: DAZN 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1512
+#EXTINF:-1,PT: DAZN 6
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1515
+#EXTINF:-1,PT: SPORT TV 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/281487
+
+
+
+
+
+#EXTINF:-1, ===Bolgenco====
+
+
+
+
+
+#EXTINF:-1, ===Jeremy====
+http://panelguys.top:8080/linda@randell/075@570/167742
+
+#EXTINF:-1, ===Homeplay====
+
+
+#EXTINF:-1, ===samisat====
+
+#EXTINF:-1, ===Meteo====
+
+
+#EXTINF:-1, ===Gabriel====
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/SCrzeyi.png",[PT] BTV
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147219.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/SCrzeyi.png",[PT] BTV
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147219.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/SCrzeyi.png",[PT] BTV
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147219.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 1 HD
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/104077.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 1 HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104077.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 1 HD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/104077.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cKgqcXC.png",[PT] SporTV 2
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147193.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cKgqcXC.png",[PT] SporTV 2
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147193.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cKgqcXC.png",[PT] SporTV 2
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147193.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 2 HD
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/104079.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 2 HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104079.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 2 HD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/104079.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/MFz21ZJ.png",[PT] SporTV 3
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147194.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/MFz21ZJ.png",[PT] SporTV 3
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147194.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/MFz21ZJ.png",[PT] SporTV 3
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147194.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 3 HD
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/104081.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 3 HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104081.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 3 HD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/104081.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/7ooybGP.png",[PT] SporTV 4
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147195.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/7ooybGP.png",[PT] SporTV 4
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147195.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/7ooybGP.png",[PT] SporTV 4
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147195.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 4 HD
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/104082.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 4 HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104082.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 4 HD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/104082.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/EyAe1Hg.png",[PT] SporTV 5
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147196.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/EyAe1Hg.png",[PT] SporTV 5
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147196.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/EyAe1Hg.png",[PT] SporTV 5
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147196.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 1
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147220.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 1
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147220.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 1
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147220.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 2
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147221.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 2
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147221.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 2
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147221.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 3
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147222.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 3
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147222.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 3
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147222.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 4
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147223.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 4
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147223.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 4
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147223.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 5
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147224.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 5
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147224.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 5
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147224.mpegts
 
