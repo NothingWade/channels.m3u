@@ -2,15 +2,13 @@
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://assets.protv.md/articles/images/original/2024/09/30/Logositeprotv-17277290340p9qcqg.png" group-title="Moldova",PRO TV CHISINAU
 https://stream.protv.md/live/sursa-2/index.m3u8
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://static.cdn.jurnaltv.md/brand-assets/dev/jurnaltv/jurnaltv_albastru_bold.png" group-title="Moldova",Jurnal TV
-https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=39217c5f1c35faa034d5887270ac669b893831c9
-#EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Publika_logo_%282017%29.png" group-title="Moldova",Publika TV
-https://livebeta.publika.md/LIVE/P/6810.m3u8
+https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=3248d67a8281c4238b168da3a5481d3492ea1943
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062022/tv8.md_.png?Hd2w7yTD0ovstLPAtNYa.A.ymvTbvZyQ&itok=Bp92nE0Q" group-title="Moldova",TV 8
-https://live.cdn.tv8.md/TV7/index.m3u8?token=3cbd4395427430508d85c7c85d9996bca9f40134
+https://live.cdn.tv8.md/TV7/index.m3u8?token=33b5d0e3dae4c3ca18c46599a44352afeaf07612
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftvmoldova1%2F&psig=AOvVaw2tAgQrsxxybQ_T69eekNDs&ust=1693182160382000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLje6ZvJ-4ADFQAAAAAdAAAAABAq" group-title="Moldova",Moldova 1
-https://v0.trm.md/static/streaming-playlists/hls/a7784517-4451-4cea-a159-f42847a2aaf7/master.m3u8
+https://v0.trm.md/w/kcvQjHoCxCn5ZAkaPGgpNJ
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftvmoldova2%2F&psig=AOvVaw0wnvN7giUDO6qyDiZ1BmZm&ust=1693182200483000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOC0_67J-4ADFQAAAAAdAAAAABAE" group-title="Moldova",Moldova 2
-https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
+https://v0.trm.md/w/sqxFscpxnsTUaL4NtfAEzT
 #EXTINF:-1 tvg-country="Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_N4_%282013%29.svg/1200px-Logo_N4_%282013%29.svg.png" group-title="Moldova",National 4
 https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
 #EXTINF:-1 tvg-id="RealitateaTV.md" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="News",Realitatea
