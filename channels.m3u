@@ -108,10 +108,6 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="Russia",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 
-
-
-#EXTM3U
-
 #EXTINF:-1, ===SureStreams====
 #EXTINF:-1,btv
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/27
@@ -339,12 +335,6 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/281487
 #EXTINF:-1, ===Jeremy====
 http://panelguys.top:8080/linda@randell/075@570/167742
 
-#EXTINF:-1, ===Homeplay====
-
-
-#EXTINF:-1, ===samisat====
-
-#EXTINF:-1, ===Meteo====
 
 
 #EXTINF:-1, ===Gabriel====
