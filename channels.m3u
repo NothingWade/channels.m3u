@@ -108,30 +108,29 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="Russia",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BTV FHD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1529
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BTV TV HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1530
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 1 FHD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2377
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 2 FHD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2385
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 3 FHD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2391
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 4 FHD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2398
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 5 FHD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2405
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 6 FHD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2411
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 1 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1514
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 2  HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1517
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 3 Full HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1520
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 4 Full HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1523
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 5 Full HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1526
-
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV+
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2165
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
+http://tv14s.xyz:8080/77709038/96038622/167742
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2166
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *SPORT TV 1
+http://user.scalecdn.co:8080/live/26725074/92867131/849.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
+http://tv14s.xyz:8080/77709038/96038622/167743
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2167
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Portugal",*SPORT TV 2
+http://user.scalecdn.co:8080/live/26725074/92867131/847.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
+http://tv14s.xyz:8080/77709038/96038622/167744
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2168
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
+http://tv14s.xyz:8080/77709038/96038622/167745
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2169
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2170
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *BENFICA TV
+http://user.scalecdn.co:8080/live/26725074/92867131/640766.m3u8
