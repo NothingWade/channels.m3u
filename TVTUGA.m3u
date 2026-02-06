@@ -6,3 +6,5 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?tk=177
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8?tk=1770436800_4f556ce8418608cd9a8366b99d45e6917536f6f2
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Portugal", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8
+#EXTINF:-1  tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray/horizontal/tiny_logo_64.svg" group-title="Portugal", RTP Noticias
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
