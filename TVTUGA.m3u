@@ -1,16 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray/horizontal/tiny_logo_5.svg" group-title="Portugal", RTP 1
+----- NOTICIAS ------
+#EXTINF:-1  tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray/horizontal/tiny_logo_5.svg" group-title="Noticias", RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?tk=1770436800_6594ae3f1731b460e59aa09e8d7dd9a19bf3f18b
-#EXTINF:-1  tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray/horizontal/tiny_logo_3.svg" group-title="Portugal", RTP 2
+#EXTINF:-1  tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray/horizontal/tiny_logo_3.svg" group-title="Noticias", RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8?tk=1770436800_4f556ce8418608cd9a8366b99d45e6917536f6f2
-#EXTINF:-1  tvg-logo="https://images.impresa.pt/sic/2021-04-07-logo-sic.png-45b11c81-1" group-title="Portugal", SIC
+#EXTINF:-1  tvg-logo="https://images.impresa.pt/sic/2021-04-07-logo-sic.png-45b11c81-1" group-title="Noticias", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logótipo_TVI.png" group-title="Portugal", TVI
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logótipo_TVI.png" group-title="Noticias", TVI
 https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTo0Mjo4IFBNJmhhc2hfdmFsdWU9c0FNa1dWdzBIaDZPRkpmYmNIWml0QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiMmUwYmNkLWE2N2EtNDU4Yy05NTg1LTlhNmZjNDJhMzhiYQ==
-#EXTINF:-1  tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray/horizontal/tiny_logo_64.svg" group-title="Portugal", RTP Noticias
+#EXTINF:-1  tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray/horizontal/tiny_logo_64.svg" group-title="Noticias", RTP Noticias
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
-#EXTINF:-1  tvg-logo="https://sdistribution.impresa.pt/data/content/binaries/b58/207/7422461b-ba2f-49d1-a5bf-dcddad117f38/sicnot.svg" group-title="Portugal", SIC Noticias
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1280px-CNN_Portugal.svg.png" group-title="Portugal", CNN Portugal
+#EXTINF:-1  tvg-logo="https://sdistribution.impresa.pt/data/content/binaries/b58/207/7422461b-ba2f-49d1-a5bf-dcddad117f38/sicnot.svg" group-title="Noticias", SIC Noticias
+https://www.vavoo.to/play/2132630830/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1280px-CNN_Portugal.svg.png" group-title="Noticias", CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+
+----- DESPORTO ------
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Desporto", Sport TV 1
+https://www.vavoo.to/play/1438628906/index.m3u8
