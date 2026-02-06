@@ -1,6 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" group-title="Portugal", RTP 1
-http://tv14s.xyz:8080/77709038/96038622/164792
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Portugal", *SIC
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?tk=1770436800_6594ae3f1731b460e59aa09e8d7dd9a19bf3f18b
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Portugal", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8
