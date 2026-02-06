@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
 
 ----- NOTICIAS ------
 #EXTINF:-1  tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray/horizontal/tiny_logo_5.svg" group-title="Noticias", RTP 1
