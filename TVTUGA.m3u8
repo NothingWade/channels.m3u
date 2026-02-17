@@ -8,18 +8,30 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8?tk=177
 #EXTINF:-1  tvg-logo="https://images.impresa.pt/sic/2021-04-07-logo-sic.png-45b11c81-1" group-title="Noticias", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logótipo_TVI.png" group-title="Noticias", TVI
-https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTo0Mjo4IFBNJmhhc2hfdmFsdWU9c0FNa1dWdzBIaDZPRkpmYmNIWml0QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiMmUwYmNkLWE2N2EtNDU4Yy05NTg1LTlhNmZjNDJhMzhiYQ==
+http://1tv41.icu:8080/A4qWjw/912259/78526
 #EXTINF:-1  tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray/horizontal/tiny_logo_64.svg" group-title="Noticias", RTP Noticias
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
-#EXTINF:-1  tvg-logo="https://sdistribution.impresa.pt/data/content/binaries/b58/207/7422461b-ba2f-49d1-a5bf-dcddad117f38/sicnot.svg" group-title="Noticias", SIC Noticias
-https://www.vavoo.to/play/2132630830/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1280px-CNN_Portugal.svg.png" group-title="Noticias", CNN Portugal
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+###EXTINF:-1  tvg-logo="https://sdistribution.impresa.pt/data/content/binaries/b58/207/7422461b-ba2f-49d1-a5bf-dcddad117f38/sicnot.svg" group-title="Noticias", SIC Noticias
+##https://www.vavoo.to/play/2132630830/index.m3u8
+###EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1280px-CNN_Portugal.svg.png" group-title="Noticias", CNN Portugal
+##https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
 ----- DESPORTO ------
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Desporto", Sport TV 1
-https://www.vavoo.to/play/1438628906/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
+http://1tv41.icu:8080/A4qWjw/912259/167742
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="Portugal", SPORT TV 2
+http://1tv41.icu:8080/A4qWjw/912259/167743
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="Portugal", SPORT TV 3
+http://1tv41.icu:8080/A4qWjw/912259/167744
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg" group-title="Portugal", SPORT TV 4
+http://1tv41.icu:8080/A4qWjw/912259/167745
+#EXTINF:-1  tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1.png" group-title="Portugal", ELEVEN SPORTS 1
+http://1tv41.icu:8080/A4qWjw/912259/35264
+#EXTINF:-1  tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png" group-title="Portugal", ELEVEN SPORTS 2
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3280
+#EXTINF:-1  tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3.png" group-title="Portugal", ELEVEN SPORTS 3
+http://1tv41.icu:8080/A4qWjw/912259/167748
+#EXTINF:-1  tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-4.png" group-title="Portugal", ELEVEN SPORTS 4
+http://1tv41.icu:8080/A4qWjw/912259/167749
+#EXTINF:-1  tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-5.png" group-title="Portugal", ELEVEN SPORTS 5
+http://1tv41.icu:8080/A4qWjw/912259/167750
