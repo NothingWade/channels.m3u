@@ -15,6 +15,8 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
 ##https://www.vavoo.to/play/2132630830/index.m3u8
 ###EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1280px-CNN_Portugal.svg.png" group-title="Noticias", CNN Portugal
 ##https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+###EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="Noticias", CMTV
+http://cord-cutter.net:8080/shearer@prudent.com/0723@8096/78441
 
 ----- DESPORTO ------
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Desporto", Sport TV 1
