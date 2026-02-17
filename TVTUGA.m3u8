@@ -37,3 +37,21 @@ http://1tv41.icu:8080/A4qWjw/912259/167748
 http://1tv41.icu:8080/A4qWjw/912259/167749
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" group-title="Portugal", ELEVEN SPORTS 5
 http://1tv41.icu:8080/A4qWjw/912259/167750
+
+#EXTINF:-1 tvg-id="NL.000094.019321" tvg-name="NL: Ziggo Sport UHD 4K ²¹⁶⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4CCD_81A_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN", NAO PT - Ziggo Sport UHD 4K
+http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/20560
+#EXTINF:-1 tvg-id="NL.000094.019321" tvg-name="NL: Ziggo Sport 1 ¹⁰⁸⁰ᵖ " tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4CCD_81A_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NAO PT - Ziggo Sport 1
+http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/16307
+#EXTINF:-1 tvg-id="NL.000095.019371" tvg-name="NL: Ziggo Sport 2 ¹⁰⁸⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4BAB_817_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NAO PT - Ziggo Sport 2
+http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/16335
+#EXTINF:-1 tvg-id="NL.000096.019382" tvg-name="NL: Ziggo Sport 3  ¹⁰⁸⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4BB6_831_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NAO PT - Ziggo Sport 3
+http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/16336
+#EXTINF:-1 tvg-id="NL.000097.019370" tvg-name="NL: Ziggo Sport 4 ¹⁰⁸⁰ᵖ " tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4BAA_817_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NAO PT - Ziggo Sport 4
+http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/16333
+#EXTINF:-1 tvg-id="ZiggoSport5.nl" tvg-name="NL: Ziggo Sport 5 ¹⁰⁸⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a801d5dc57de145a2753e4a8a6ad6a5bd7603116/picons/1_0_19_4B37_810_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NAO PT - Ziggo Sport 5
+http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/16276
+#EXTINF:-1 tvg-id="ZiggoSport6.nl" tvg-name="NL: Ziggo Sport 6 ¹⁰⁸⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a801d5dc57de145a2753e4a8a6ad6a5bd7603116/picons/1_0_19_4B38_810_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NAO PT - Ziggo Sport 6
+http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/16277
+#EXTINF:-1 tvg-id="NL.000233.000000" tvg-name="NL: Ziggo Sport Extra ¹⁰⁸⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a801d5dc57de145a2753e4a8a6ad6a5bd7603116/picons/1_0_19_4B38_810_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NAO PT - Ziggo Sport Extra
+http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/187241
+
