@@ -8,15 +8,15 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8?tk=177
 #EXTINF:-1  tvg-logo="https://images.impresa.pt/sic/2021-04-07-logo-sic.png-45b11c81-1" group-title="Noticias", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logótipo_TVI.png" group-title="Noticias", TVI
-http://1tv41.icu:8080/A4qWjw/912259/78526
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99503
 #EXTINF:-1  tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray/horizontal/tiny_logo_64.svg" group-title="Noticias", RTP Noticias
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
-###EXTINF:-1  tvg-logo="https://sdistribution.impresa.pt/data/content/binaries/b58/207/7422461b-ba2f-49d1-a5bf-dcddad117f38/sicnot.svg" group-title="Noticias", SIC Noticias
-##https://www.vavoo.to/play/2132630830/index.m3u8
-###EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1280px-CNN_Portugal.svg.png" group-title="Noticias", CNN Portugal
-##https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+#EXTINF:-1  tvg-logo="https://sdistribution.impresa.pt/data/content/binaries/b58/207/7422461b-ba2f-49d1-a5bf-dcddad117f38/sicnot.svg" group-title="Noticias", SIC Noticias
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99530
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1280px-CNN_Portugal.svg.png" group-title="Noticias", CNN Portugal
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99564
 ###EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="Noticias", CMTV
-http://cord-cutter.net:8080/shearer@prudent.com/0723@8096/78441
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99496
 
 ----- DESPORTO ------
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Desporto", Sport TV 1
