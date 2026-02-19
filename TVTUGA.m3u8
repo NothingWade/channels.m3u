@@ -15,8 +15,29 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
 http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99530
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1280px-CNN_Portugal.svg.png" group-title="Noticias", CNN Portugal
 http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99564
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="Noticias", CMTV
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99496
+
+----- Animado ------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Animado",Cartoon Network
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99544
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png" group-title="Animado",Cartoonito
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99545
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Animado",Baby TV
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99546
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Biggs_logo.png" group-title="Animado",Biggs
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99547
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="Animado",Disney Channel
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99548
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/2017_Disney_Junior_logo.png" group-title="Animado",Disney Junior
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99549
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="Animado",Nickelodeon
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99550
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA KIDS" tvg-logo="" group-title="PT | CRIANÇAS VIP",PT: PANDA KIDS
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99551
+#EXTINF:-1 tvg-id="" tvg-name="PT: LOLLY KIDS" tvg-logo="" group-title="PT | CRIANÇAS VIP",PT: LOLLY KIDS
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99552
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA" tvg-logo="" group-title="PT | CRIANÇAS VIP",PT: CANAL PANDA
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99553
+
 
 ----- DESPORTO ------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Desporto", Sport TV 1
@@ -45,8 +66,8 @@ http://1tv41.icu:8080/A4qWjw/912259/167750
 http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99490
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1280px-BTV_Red.svg.png" group-title="Desporto",Benfica TV
 http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99492
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/A_Bola_logo_red.svg" group-title="Desporto",A BOLA TV
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99491
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/nba.png" group-title="Desporto",NBA TV
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99494
 
 #EXTINF:-1 tvg-id="NL.000094.019321" tvg-name="NL: Ziggo Sport UHD 4K ²¹⁶⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4CCD_81A_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN", NAO PT - Ziggo Sport UHD 4K
 http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/20560
