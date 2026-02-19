@@ -15,32 +15,38 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
 http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99530
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1280px-CNN_Portugal.svg.png" group-title="Noticias", CNN Portugal
 http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99564
-###EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="Noticias", CMTV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="Noticias", CMTV
 http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99496
 
 ----- DESPORTO ------
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Desporto", Sport TV 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Desporto", Sport TV 1
 http://1tv41.icu:8080/A4qWjw/912259/167742
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="Portugal", SPORT TV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="Desporto", SPORT TV 2
 http://1tv41.icu:8080/A4qWjw/912259/167743
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="Portugal", SPORT TV 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="Desporto", SPORT TV 3
 http://1tv41.icu:8080/A4qWjw/912259/167744
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg" group-title="Portugal", SPORT TV 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg" group-title="Desporto", SPORT TV 4
 http://1tv41.icu:8080/A4qWjw/912259/167745
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="Portugal",SPORT TV 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Sport_TV5_%282023%29.svg" group-title="Desporto",SPORT TV 5
 http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99488
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="Portugal",SPORT TV 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Sport_TV6_%282023%29.svg" group-title="Desporto",SPORT TV 6
 http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99489
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="Portugal", ELEVEN SPORTS 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="Desporto", ELEVEN SPORTS 1
 http://1tv41.icu:8080/A4qWjw/912259/35264
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="Portugal", ELEVEN SPORTS 2
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3280
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="Portugal", ELEVEN SPORTS 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="Desporto", ELEVEN SPORTS 2
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99476
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="Desporto", ELEVEN SPORTS 3
 http://1tv41.icu:8080/A4qWjw/912259/167748
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" group-title="Portugal", ELEVEN SPORTS 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" group-title="Desporto", ELEVEN SPORTS 4
 http://1tv41.icu:8080/A4qWjw/912259/167749
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" group-title="Portugal", ELEVEN SPORTS 5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" group-title="Desporto", ELEVEN SPORTS 5
 http://1tv41.icu:8080/A4qWjw/912259/167750
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Sporting_TV.png" group-title="Desporto",SPORTING TV
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99490
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1280px-BTV_Red.svg.png" group-title="Desporto",Benfica TV
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/A_Bola_logo_red.svg" group-title="Desporto",A BOLA TV
+http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99491
 
 #EXTINF:-1 tvg-id="NL.000094.019321" tvg-name="NL: Ziggo Sport UHD 4K ²¹⁶⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4CCD_81A_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN", NAO PT - Ziggo Sport UHD 4K
 http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/20560
